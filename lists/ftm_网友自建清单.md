@@ -1,0 +1,266 @@
+# FTM（跨性别男性）网友自制资源清单
+
+> 定稿 2026-09-12 ｜ 共 **84** 条（在线 82 / 待复核 2 ｜ 含中文 39）
+
+> 口径：只看「谁做的」——个人站长、网友团体、开源社区志愿者收录；医院/学会/注册机构/政府文件/商业公司剔除（剔除条目不删除，归档于 `ftm_剔除归档.json`）。
+
+> 数据文件：`ftm_网友自建清单.json`
+
+
+## 知识库（18）
+
+- [FtM.wiki - 跨性别男性知识整合站点](https://ftm.wiki/zh-cn/) — **原生中文** ｜ `高`
+  FtM.wiki 是一个免费开放、持续更新的跨性别知识整合站点，面向出生时指派性别为女性的跨性别男性（FtM）、非二元性别者（FtX）及间性者。站点按需求组织内容：未获诊断者可了解精神科流程，已获诊断者阅读 HRT 了解男性化激素治疗（MHT），并涵盖真实生活体验（RLE）、性别重置手术（SRS）与面部男性化手术（FMS）等指引，附 2345.LGBT 等社区资源导航。
+  中文实测：curl直连 HTTP 200；正文CJK字符 699/总1418（约49%），为中文页面。
+- [跨儿学术小组 One Among Us Academic](https://oau.edu.kg/) — **原生中文** ｜ `中`
+  跨儿学术小组是中文跨性别社群的学术向内容平台，分享跨性别相关学术动态、译介国外研究，并记录跨儿自行构建的理论视角与实践知识；同时提供求学、进修、求职支持信息，主张以跨儿自身视角发声而非被研究。适合关注跨性别研究的读者。
+- [OpenLGBT - 温和科学的 LGBTQ+ 科普与自我探索](https://openlgbt.org/) — **原生中文** ｜ `中`
+  OpenLGBT 是一个温和、科学、不说教的 LGBTQ+ 科普与自我探索站点。提供性取向光谱等 8 个免费无注册测试（答案不离开浏览器），并从 SOGIE 框架厘清性倾向、性别认同与性别表达；设有辟谣误区、大陆/台/港及海外心理支持热线目录，并强调数字安全与快速退出等隐私保护功能。
+  中文实测：HTTP 200；正文中文 547/1098（约 50%），原生简体中文。
+- [KnowSex Post - 全面性教育知识库](https://post.knowsex.net/) — **原生中文** ｜ `中`
+  KnowSex Post 是一个中文性教育知识库，以生理、心理与社会视角系统讲解性健康议题，包含性与性别多样性、身体发育、性行为安全与关系沟通等章节。内容不做道德说教，适合作为跨性别者及其亲友建立基础生理与性健康认知的补充读物。
+  中文实测：HTTP 200；正文中文 642/2916（约 22%），原生简体中文。
+- [RLE.wiki - 真实生活体验（RLE）百科](https://rle.wiki/) — **原生中文** ｜ `高`
+  RLE.wiki 由 Project Trans 维护，专注真实生活体验（Real Life Experience）相关知识：外表改造、化妆、穿衣、语音、社交过渡与社会适应，是 FtM/MtF 在日常生活中被「看见」所对应性别的实践指南。GitHub 源码 project-trans/RLE-wiki 获 261 星，持续更新。
+  中文实测：curl直连 HTTP 200；正文CJK字符 198/总1024（约19%），为中文页面。
+- [Transman Helper - 成为 FTM 兄弟的好帮手](https://transmanhelper.com/) — **原生中文** ｜ `中`
+  Transman Helper 是一个中文跨性别男性互助站点，提供雄性激素 HRT、性别肯定手术（SRS）、易性症证明、假体与站长个人经历分享等栏目，并收录《性别重置技术临床应用管理规范（2022版）》政策解读、睾酮臀部肌肉注射演示、激素六项指标参考与中国大陆出柜指南等实用资料。
+  中文实测：curl直连 HTTP 200；正文CJK字符 240/总736（约33%），为中文页面。
+- [生如夏花知识库](https://viva-la-vita.org/) — **原生中文** ｜ `中`
+  生如夏花知识库是中文性少数向知识项目，内容围绕性体验、性健康与关系实践展开，亦涉及跨性别者在亲密关系与身体改变过程中的具体议题。定位偏经验性与实用向，可作为医疗类站点的补充，但引用严谨度不及指南型站点，建议交叉核对。
+  中文实测：HTTP 200；正文中文 919/1470（约 62%），原生简体中文。
+- [neo-RLEwiki](https://rle.oau.app/) — **原生中文** ｜ `中`
+  neo-RLEwiki（rle.oau.app）是一份面向跨性别者的 RLE（真实生活体验）指北，含投稿指南、校园版块与贡献模板，深色模式，内容以中文撰写，是 RLE.wiki 之外的社区补充版本。
+  中文实测：curl直连 HTTP 200；正文CJK字符 211/总1056（约20%），为中文页面。
+- [中文跨性别新闻存档站点（project-polymorph，5★）](https://github.com/project-polymorph/news-website) — **原生中文** ｜ `中`
+  project-polymorph 团队（跨性别中文数字档案馆 trans-digital-cn 同门项目）维护的中文跨性别相关新闻存档站点（5★），以 Git 永久保存社群相关媒体报道，防止易失链接失效，与数字档案馆互补。
+  中文实测：GitHub 仓库页 HTTP 200，中文 2313/12733（18.2%）；GitHub API 实测 5★，pushed 2025-06-28
+- [FTM Guide](https://ftm-guide.com/) — **无中文** ｜ `中`
+  FTM Guide 是英文跨性别男性入门指南站，按主题组织激素治疗、手术类型、出柜与社会过渡、常见问答等内容，篇幅偏精简，适合作为进入更专业资源（如 Hudson's Guide、WPATH SOC）之前的过渡读物。维护频率中等，部分页面信息需核对时效。
+  中文实测：HTTP 202 且仅 7 字节无标题（直连与代理一致），疑为反爬或前端渲染壳，正文未能获取
+- [Hudson's FTM Resource Guide](https://ftmguide.org/) — **无中文** ｜ `高`
+  Hudson's FTM Resource Guide 是自 2004 年运营、浏览超 2000 万次的跨性别男性资源站。覆盖睾酮治疗（类型、给药、健康误区）、男性化呈现（束胸、填装、如厕 STP 设备）、grooming、胸部重建/子宫切除/生殖器重建手术、男装与盟友工具包，面向 FtM 及其亲友提供系统实用的过渡指引。
+  中文实测：HTTP 200，正文中文字符 0/3323（0.0%），英文站
+- [FTM Passing Tips](https://ftmpassingtips.com/) — **无中文** ｜ `中`
+  FTM Passing Tips 集中整理跨性别男性的「passing」（被外界读作男性）技巧，涉及着装、束胸、走路与坐姿、说话方式、公共场所应对与青春期特征遮盖等具体场景。内容以经验型建议为主，缺乏医学引用，适合作为实践参考而非医疗依据。
+- [FTM Transition](https://ftmtransition.com/) — **无中文** ｜ `中`
+  FTM Transition 以跨性别男性过渡全流程为主题，梳理从自我认同、出柜、医疗评估到激素与手术的步骤，并整理各阶段的时间预期与需要准备的材料。定位为路线图式读物，适合刚开始规划过渡、需要弄清先后顺序的读者。
+- [Gender Dysphoria Fyi - 跨性别科普指南](https://genderdysphoria.fyi/) — **无中文** ｜ `高`
+  GenderDysphoria.fyi 是一份详尽的跨性别科普指南，梳理性别不安（Gender Dysphoria）的多种表现——身体、生化、社会、性、存在性等类型，并介绍雄激素第二青春期、激素作用原理与过渡方式。强调'与出生指派性别不一致即为有效跨性别身份'，面向探索者、过渡者及盟友提供循证知识。
+  中文实测：HTTP 200 英文；/zh 路径 HTTP 200，正文中文约1926/3804字（约51%），中文版路径
+- [The Art of Transliness](https://theartoftransliness.com/) — **无中文** ｜ `中`
+  The Art of Transliness 是面向跨性别男性（及跨男性光谱）的生活方式与实践博客，重点在外表男性化呈现——剪裁、发型、体态、声音与日常社交细节，帮助读者在过渡过程中处理「被读作男性」的具体技巧与现实摩擦。风格偏个人经验，实操性强。
+- [TransGuys - 跨性别男性资讯站](https://transguys.com/) — **无中文** ｜ `高`
+  TransGuys 是面向跨性别男性的资讯站，提供睾酮治疗安全、intramuscular 注射减痛、宫颈健康、手术筹款、简历写作与媒体培训等实用文章与视频，并覆盖 #TransHIV 检测倡导与 TDOV 等议题，面向 FtM 群体及其亲友。被 cvyl/awesome-transgender 的 FtM 分区列为首位资源。
+  中文实测：HTTP 200，正文中文字符 0/4312（0.0%），英文站
+- [TransMascStories](https://transmascstories.com/) — **无中文** ｜ `中`
+  TransMascStories 汇集跨性别男性与跨男性光谱个体的亲身叙述，覆盖出柜、激素变化、手术经历、亲密关系、职场与家庭反应等主题。相比指南类站点，其价值在于提供真实经验样本与心理参照，有助于缓解孤立感并校准对过渡效果的预期。
+- [Trans Masc Studies](https://transmascstudies.com/) — **无中文** ｜ `中`
+  Trans Masc Studies 是跨男性研究的学术与写作平台，收录跨性别男性研究领域的文章、访谈与理论讨论，关注跨男性身份的历史脉络、社群文化与知识生产。适合需要学术视角或论文引用来源的读者，站点体量较小但选题明确。
+  中文实测：HTTP 200；正文 0 个中文字符（全英文），无中文。
+
+## 开源项目（24）
+
+- [MarcelineLovegood/awesome-trans](https://github.com/MarcelineLovegood/awesome-trans) — **原生中文** ｜ `低`
+  一份中文跨性别相关资源列表（0★，最后更新 2021 年），按主题汇总站点与资料链接。内容已明显过时且未再维护，仅可作历史参照；同类需求建议改用更新更全的 cvyl/awesome-transgender 与 TransWebsites。
+- [TransDocumentLibrary/TransWebsites（跨性别网站登记库）](https://github.com/TransDocumentLibrary/TransWebsites) — **原生中文** ｜ `高`
+  一个专门登记「对跨性别有用的网站」的 GitHub 库，按医疗科学（中/英文分列）、社区、化妆与 RLE、嗓音训练等板块列出站点并附一句话说明，收录了 docs.transonline.org.cn、mtf.party、跨儿学术小组、生如夏花等在别处少见的中文站点。与本次数据集高度互补。
+- [TransHelper/Trans-Search - 跨性别信息检索](https://github.com/TransHelper/Trans-Search) — **原生中文** ｜ `中`
+  Trans-Search 旨在为跨性别群体提供更好的信息检索方式，把分散的跨性别资料统一索引进可搜索的界面。与 Trans_Helper_Prism 目标相近但实现路径不同，两者对比可看出「聚合检索」这一需求在中文跨性别社群中已被多次独立提出并尝试解决。
+- [daanser/Trans_Helper_Prism - 四库聚合语义检索](https://github.com/daanser/Trans_Helper_Prism) — **原生中文** ｜ `高`
+  把 MtF Wiki、FtM Wiki、RLE Wiki、Mio MtF Wiki 四部中文跨性别知识库聚合到同一个搜索框，采用向量检索 + 二次重排，结果直达原文。全站跑在 Cloudflare（Workers + Pages + D1/KV），向量库用 Qdrant Cloud。是「跨库统一检索」这一思路目前最直接的开源实现，技术方案可完整复用。
+  中文实测：GitHub 仓库页 HTTP 200，中文 1362/19022（7.2%）；GitHub API 实测 1★，pushed 2026-09-11（当日仍在推送）
+- [project-polymorph/trans-digital-cn（中文数字档案馆）](https://github.com/project-polymorph/trans-digital-cn) — **原生中文** ｜ `高`
+  跨性别中文数字档案馆与资料库（113★，2026-09 活跃），系统归档中文跨性别相关文献、报道与历史资料，做的是「保存与可检索」而非科普输出。对需要溯源（例如查证某项规定或事件的原始表述）的读者价值高，可与 Project Trans 的政策整理互相对照。
+  中文实测：GitHub API: 113★, 描述「跨性别中文数字档案馆与资料库」; README 中文占比 2458/7470≈33%
+- [project-trans/FtM-wiki（ftm.wiki 源码仓库）](https://github.com/project-trans/FtM-wiki) — **原生中文** ｜ `高`
+  FtM.wiki 的源码仓库，站点内容以 Markdown 形式在此维护并按需构建发布。相比 MtF-wiki（1084★），该仓库仅 16★，说明 FTM 方向的公开协作与内容积累明显薄弱——这是本次调研中最值得注意的结构性差距，也是较容易切入贡献的缺口。
+  中文实测：GitHub API: 16★, 描述「Female to Male Knowledge base」; 部署站点 ftm.wiki 为简体中文跨性别男性知识库; README 中文占比 262/949≈28%
+- [project-trans/RLE-wiki](https://github.com/project-trans/RLE-wiki) — **原生中文** ｜ `中`
+  RLE.wiki 的源码仓库（261★），内容围绕真实生活体验整理，涵盖外表改造、化妆穿搭、语音与社交过渡等实践主题，结构上与 MtF-wiki 同源、可复用同一套文档框架。适合提取其目录组织方式作为自建知识站的模板。
+  中文实测：GitHub API: 261★, 部署站点 rle.wiki 为简体中文真实生活体验(RLE)知识库; README 中文占比 587/2496≈24%
+- [Project Trans（关于我们）](https://about.project-trans.org/zh-hans/) — **原生中文** ｜ `高`
+  Project Trans 是由 MtF.wiki 团队改建而来的开源组织官网（关于我们页），统管 MtF.wiki、FtM.wiki 等多个跨性别知识项目，介绍其使命、团队与协作方式，是理解整个知识生态的入口。
+  中文实测：curl直连 HTTP 200；正文CJK字符 426/总840（约51%），为中文页面。
+- [vitepress-theme-project-trans（VitePress 主题）](https://github.com/project-trans/vitepress-theme-project-trans) — **原生中文** ｜ `中`
+  Project Trans 开发并发布到 npm（@project-trans/vitepress-theme-project-trans）的 VitePress 主题，为 mtf.wiki、ftm.wiki、rle.wiki 等站点提供统一样式，含页面容器、提示块、医疗警示与图表组件及暗色模式。若自建跨性别知识站，可直接复用这套主题省去样式工作。
+- [跨性别用户报告集](https://github.com/project-trans/reports) — **原生中文** ｜ `中`
+  官方描述「用户报告」，汇集跨性别者在就医、证件变更、用药等环节的真实经历记录，可作为制度落地的经验证据。
+- [跨儿计划 RIME 输入法词典](https://github.com/project-trans/rime-dict) — **原生中文** ｜ `中`
+  官方描述「跨儿计划 RIME 词典」，为输入法补充跨性别相关词汇与专有名词，属社群工具的典型形态。
+- [transport - 神圣跨性别帝国护照生成器](https://github.com/sb-child/transport) — **原生中文** ｜ `低` 🆕
+  中文跨性别社群娱乐向工具（26★）：上传 4:5 头像即生成「神圣跨性别帝国」风格护照图片，README 纪念已故社群成员 starmoe。属社群情感与身份确认向小工具而非实用证件工具，但在中文跨性别开源项目中星数较高，原生中文。
+  中文实测：GitHub API 实测 ★26、pushed 2024-10-20，描述为中文；README 解码实测 CJK 103/585 字符（17.6%）且主语言为中文，Python/Pillow 实现。
+- [LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) — **多语言含中文** ｜ `高`
+  LGBT-CN 组织维护的中文开源仓库，汇编中国性少数群体（含跨性别）生存现状、法规与资源调研报告，是面向中文社群的资料汇总与导航项目，GitHub 815★。
+  中文实测：GitHub API: 815★, 描述为中文「🏳️‍🌈 中国的性少数群体一直渴望着自由平等」; README 中文占比 829/10306≈8%（封面英文，项目主体为在华性少数调研）
+- [HRT-Recorder-PKcomponent-Test（HRT 药代动力学模型组件）](https://github.com/LaoZhong-Mihari/HRT-Recorder-PKcomponent-Test) — **多语言含中文** ｜ `高` 🆕
+  HRT-Recorder 的药代动力学（PK）模型组件测试仓库（★34），含雌二醇与睾酮的群体药代动力学模型，README 中英混合，服务于 HRT 剂量记录工具的建模验证。
+  中文实测：GitHub API 实测 README CJK 5125/22145≈23% 中英混合（2026-09-12 实测）
+- [soapingtime/diyhrt - DIYHRT 资源自动归档](https://github.com/soapingtime/diyhrt) — **无中文** ｜ `中`
+  自动抓取并归档 DIYHRT 相关资源（96★，2026-09 仍在更新），以仓库形式为该类资料的持续可得性做备份。工程上是一个「定期归档易失效站点」的可复用范例——本次核验中已发现多个同类站点下线，说明这类归档机制确有必要。
+  中文实测：GitHub API: 96★, 描述英文「Automatically archiving DIYHRT resources」; README 中文占比 0/1260
+- [TransMascFutures（InReach × GLAAD）](https://github.com/weareinreach/TransMascFutures) — **无中文** ｜ `低`
+  由 InReach 与 GLAAD 合作的跨性别男性主题倡导活动的站点源码（9★），内容与设计均为活动宣传性质，技术含量有限。收录价值主要在于它是少数明确以 transmasculine 为对象的公开项目，可作社群议题观察材料。
+  中文实测：GitHub API: 9★, 描述「Main site for the InReach x GLAAD #TransMascFutures campaign.」; README 中文占比 0/5214
+- [my-T-tracker（睾酮注射追踪 Web 应用）](https://github.com/alecmildenhall/my-T-tracker) — **无中文** ｜ `低` 🆕
+  个人开发的睾酮注射追踪 Web 应用：不仅记录注射时间，还追踪剂量、周期与体感变化，面向 DIY/处方 HRT 的跨性别男性自我管理工具。
+  中文实测：GitHub API 实测 README CJK 0/136324（2026-09-12 实测）
+- [top-surgery.github.io - 跨男平胸手术准备指南](https://github.com/top-surgery/top-surgery.github.io) — **无中文** ｜ `中` 🆕
+  面向跨性别男性的平胸手术（masculinising top surgery）准备指南站点源码（0★）。README 即完整指南：术前增肌重点（胸、肩、核心）、把日用品预置到腰部以上高度、备好通便药与术后护理用品，并附 bodyweight/calisthenics 训练推荐。GitHub Pages 已上线，英文，内容实操性强。
+  中文实测：GitHub API 实测 ★0、pushed 2025-09-14；README 解码实测 CJK 0/4144 字节（0%），纯英文；部署站 https://top-surgery.github.io/ 实测 HTTP 200。
+- [Transbucket_Rails - 跨性别手术效果社区 TransBucket 源码](https://github.com/mooreniemi/Transbucket_Rails) — **无中文** ｜ `中` 🆕
+  跨性别手术照片与评价社区 TransBucket（transbucket.com）的 Rails 源码（13★，2026-09 仍活跃），提供 Docker Compose 本地开发环境与搜索/缓存/CI 全套工程配置。站点供跨性别者分享术后效果与医生评价，是跨男查阅平胸与底部手术实拍样本、筛选术者的常用社区，英文。
+  中文实测：GitHub API 实测 ★13、pushed 2026-09-11；README 解码实测 CJK 0/13674 字节（0%），纯英文，技术栈 Rails 4.2.8 + Postgres + Elasticsearch。
+- [transmascstudies.com - Trans Masc Studies 网站源码](https://github.com/radical-data/transmascstudies.com) — **无中文** ｜ `低` 🆕
+  跨男性别研究项目 Trans Masc Studies（Izzy Kroese 创办）的网站源码（2★），Jekyll 极简网格主题，承载该项目对历史与文化语境下跨男性别呈现的研究与档案内容，英文。站点本体 transmascstudies.com 已在清单，此为对应开源仓库，方便研究其内容组织方式。
+  中文实测：GitHub API 实测 ★2、pushed 2024-08-02；README 解码实测 CJK 0/816 字节（0%），纯英文，Jekyll 主题站源码。
+- [transmascinfoco - 巴西跨男性别博客](https://github.com/luthrsm/transmascinfoco) — **无中文** ｜ `低` 🆕
+  巴西葡语跨男性别博客「Transmasculinidades em Foco」源码（1★，2025-05 更新），以 HTML/CSS 静态站形式发布跨男群体的生活经历、健康与权益内容，项目宗旨是对抗跨男性别群体的低可见度并建立经验分享空间。葡语、无中文，可作非英语区 FTM 社群项目样本。
+  中文实测：GitHub API 实测 ★1、pushed 2025-05-29；README 解码实测 CJK 0/3298 字节（0%），正文为葡萄牙语（Transmasculinidades em Foco）。
+- [MBVagTrans - 跨男激素治疗期阴道微生态分析](https://github.com/reider-si/MBVagTrans) — **无中文** ｜ `低` 🆕
+  分析接受性别肯定激素治疗的跨性别男性（trans men）阴道微生物组的研究代码库（1★）：因雌激素缺乏与乳杆菌减少，跨男与绝经女性菌群疑似相似，仓库含数据清洗与统计分析脚本（R/HTML），属 FTM 医疗方向的公开学术辅助资源，英文。
+  中文实测：GitHub API 实测 ★1、pushed 2024-08-14；README 解码实测 CJK 0/1768 字节（0%），纯英文。
+- [The-Health-of-Transmasculine-Patients（跨男子宫切除研究代码）](https://github.com/Carolina-Hysterectomy-Cohort/The-Health-of-Transmasculine-Patients-TreatedWithHysterectomyintheUSSouth-2014-2017) — **无中文** ｜ `低` 🆕
+  美国南部 2014-2017 年跨性别男性子宫切除术患者健康研究（发表于 Annals of LGBTQ Population Health）的数据集构建代码库（0★），数据已去标识化并在 OSF 同步公开。属 FTM 手术方向少见的可复现科研数据，英文，适合需要学术引证的研究者。
+  中文实测：GitHub API 实测 ★0、pushed 2023-08-16；README 解码实测 CJK 0/297 字节（0%），纯英文。
+- [hlcc - 激素水平单位换算计算器](https://github.com/Jana-Marie/hlcc) — **无中文** ｜ `中` 🆕
+  Rust 编写的激素水平单位换算命令行计算器（14★），支持睾酮（Testo）、雌二醇、孕酮在 nmol/L、ng/ml、pg/ml 等单位间的自然语言换算（如 "Testo 1.8nmol/l in ng/ml"）。跨男拿到血检报告后换算睾酮单位（nmol/L↔ng/dL）可直接使用，英文。
+  中文实测：GitHub API 实测 ★14、pushed 2024-03-29；README 解码实测 CJK 0/4973 字节（0%），纯英文，Rust 实现。
+
+## 社区论坛（3）
+
+- [TransCircle](https://github.com/TransCircle/TransCircle) — **原生中文** ｜ `中`
+  TransCircle 的中文跨性别社群开源站点，口号「我们的存在，就是对恶意最大的反抗」，提供社群连接与科普，全中文界面，GitHub 40★。
+  中文实测：GitHub API: 40★, 描述「我们的存在，就是对恶意最大的反抗。」; README 中文占比 938/1650≈57%
+- [transmasc.social（Iceshrimp 实例，跨男/transmasc 联邦社群）](https://transmasc.social/) — **无中文** ｜ `低` 🆕
+  2026 年 8 月新上线的面向 transmasc 群体及盟友的联邦社交实例（Iceshrimp.NET），站方自述 safer space、邀请制。实测 18 用户、325 帖、联邦连通 5888 域名，规模尚小但持续运行，Blåhaj 社区 2026-08 曾发帖宣传其上线，属新兴联邦社群。
+  中文实测：curl 直连 HTTP 200（8.9KB）；/api/v1/instance 实测：title=transmasc.social，Iceshrimp.NET 2026.1.2-beta，user_count=18、status_count=325、domain_count=5888，纯英文
+- [Female To Male（Corbin 的 FTM 个人过渡站）](https://www.femaletomale.org/) — **无中文** ｜ `中` 🆕
+  跨男 Corbin 的个人 FTM 过渡记录站：睾酮日记（T-diary）18+ 篇、双侧乳房切除术记录、束胸产品调查与评测、手术前后图集。内容详实但主要更新于 2012-2019 年，属内容充实的历史型个人站点，适合作为 FTM 手术与激素个人经验参考。
+  中文实测：curl 直连 HTTP 200（150KB）；sitemap 实测含 corbins-transition/t-diary 系列（month-1 至 1-year-10-months 等 18+ 篇睾酮日记）与束胸评测长文，纯英文无中文路径
+
+## 社区组织（8）
+
+- [Project Trans 博客 / 非正式笔记](https://blog.project-trans.org/) — **原生中文** ｜ `中`
+  Project Trans 官方博客，用于发布工作报告、项目动态，以及整理尚未充分考据的参考资料与勘误说明。相比正式 wiki 页面，这里的表述更接近过程记录，适合追踪该组织项目的演进与内容取舍逻辑，也便于了解中文跨性别知识库的维护方式。
+- [LGBT-CN 中国 LGBT 开源社区](https://lgbt-cn.github.io/) — **原生中文** ｜ `低`
+  LGBT-CN 是托管在 GitHub 上的中文 LGBT 社区项目页，聚合社群组织的开源文档、资料库与协作项目入口。自身内容量有限，主要价值是作为中文性少数开源协作生态的导航节点，便于发现其他仍在维护的文档型仓库。
+  中文实测：HTTP 200；正文中文 640/3905（约 16%），原生简体中文。
+- [那些秋叶 One Among Us](https://one-among.us/) — **原生中文** ｜ `中`
+  「那些秋叶」是记录已故跨性别者生平的纪念网站，为每位逝者建立条目，保存其经历、作品与生前愿望，并公开相关的求助与支援信息。该项目对社群具有纪念与互助双重意义，也是理解跨性别群体处境与心理健康议题的重要一手材料。
+- [跨性别选校手册](https://uniguide.oau.edu.kg/zh-hans/) — **原生中文** ｜ `中`
+  跨性别选校手册由跨儿学术小组制作，汇总中国大陆高校在住宿安排、军训与体检、证件与学籍信息变更、校园医疗可及性等方面的实际情况与友善程度，帮助跨性别学生在填报志愿与入学前评估风险与支持资源。信息以社群投稿为主，需自行核实时效。
+- [中国跨性别者问题实际解决方案报告](https://github.com/ArakeiShi/China-Gender-and-Sexual-Diversity-Practical-Solution) — **原生中文** ｜ `低`
+  中文报告型仓库，聚焦中国跨性别者面临问题的实际解决方案，明确表示内容仅供参考、欢迎投稿修缮、不设版权。属社群自发整理的建议性文档，非学术研究。
+- [TransHistoria - 跨性别历史网站](https://github.com/TransHistoria/TransHistoria) — **原生中文** ｜ `低`
+  记录跨性别历史的网站源码，涵盖事件史、人物史与理论文化史，旨在保存与梳理社群的历史脉络。目前体量较小、尚处早期阶段。
+- [Transgender University Guidance](https://uniguide.transacademic.org/) — **无中文** ｜ `中`
+  Transgender University Guidance 面向跨性别学生提供高校选择与求学建议，覆盖申请材料中的姓名与性别信息、住宿与医疗资源、校园政策与权益渠道，并提供各国院校的差异化说明。适合准备留学或在学术路径中处理性别信息的读者参考。
+- [翻山（跨性别社群组织，待复核）](https://fanshan.org/) — **未核实** ｜ `低` ⚠️待复核
+  面向跨性别群体的中文社群/公益类站点（疑似以社群组织、倡导或陪伴为主），本次抓取因 TLS 连接失败无法核验具体内容与中文化程度，建议后续复核。
+  中文实测：直连报 TLS 错误 000、经代理亦 000，本环境无法建立连接，未能取正文核验中文化。已知为跨性别社群相关站点。
+
+## 医疗用药（13）
+
+- [HRT-Recorder - 激素记录与曲线估算](https://github.com/NoMTF/HRT-Recorder) — **原生中文** ｜ `中`
+  面向 Android 的本地 HRT（激素替代治疗）记录与趋势估算工具，数据全部留在本机、无需联网，提供激素曲线、用药记录与小工具集合，帮助跨性别者离线管理自身治疗数据。是中文圈少见的自建用药记录工具。
+- [HRT Monitor - 性激素六项监测应用](https://github.com/KokoroLyase/HRT-Monitor) — **原生中文** ｜ `中`
+  本地优先、无账户无广告的性激素六项化验结果记录与监测应用，同时提供安卓 APP（Kotlin）与网页版 PWA（hrt.isomeria.top），两平台数据互通、备份格式一致。注：作者 handle 偏非中文，国籍未能独立确认，按全中文内容收录。
+- [hrt-pk-mcp - HRT 药代动力学 MCP 工具](https://github.com/lfcypo/hrt-pk-mcp) — **原生中文** ｜ `低`
+  激素替代治疗的药代动力学血药浓度监测 MCP 工具，可记录给药时间并按 PK 算法拟合血药浓度曲线，供 AI Agent 调用，属偏技术向的辅助小工具。作者 handle 国籍未能独立确认。
+- [性别肯定医疗观念与技术变迁史纲](https://github.com/lfcypo/gender-affirming-medical-timeline) — **原生中文** ｜ `低`
+  梳理中国与世界性别肯定医疗的观念与技术变迁脉络，以 Markdown 文档形式维护。属资料性文档、体量尚小，可作为理解行业演进与政策背景的补充材料。
+- [DIY HRT Directory](https://diyhrt.wiki/) — **无中文** ｜ `中`
+  DIY HRT Directory 整理自行获取激素治疗的资料与渠道信息，分 transfem 与 transmasc 两条路径，涵盖药物成分、剂量参考、血液检测项目、风险识别与自我监测方法。内容属伤害减少（harm reduction）取向，不构成医疗建议，其中处方药自行使用存在明确法律与健康风险，须谨慎对待。
+- [FTM Surgery](https://www.ftmsurgery.net/) — **无中文** ｜ `中`
+  FTM Surgery 汇总跨性别男性各类手术信息，涵盖胸部重建、子宫与卵巢切除、生殖器重建等，并按地区提供执刀医生名录与术前咨询要点。内容偏目录与导览性质，适合在做术式与医生初筛时使用，具体医学细节仍应回到 UCSF、WPATH 等指南核对。
+- [Phallo.net - FTM 阴茎成形术指南](https://www.phallo.net/) — **无中文** ｜ `高`
+  Phallo.net 面向跨性别男性提供生殖器重建手术的详尽资料，重点讲解阴茎成形术（phalloplasty）与阴茎头成形术（metoidioplasty）的取材部位、分阶段流程、尿道延长、并发症与恢复期，并附外科医生与医疗中心目录，是该方向信息密度最高的专业站点之一。
+  中文实测：HTTP 200，正文中文字符 0/15716（0.0%），英文站
+- [TopSurgery.net - FTM 胸部重建手术资源](https://topsurgery.net/) — **无中文** ｜ `高`
+  TopSurgery.net 是跨性别男性（FTM）胸部重建手术的专门资源站，解释双切口、环乳晕、Buttonhole、倒 T 等技术，介绍感觉神经保留等新方法，并提供手术费用、保险覆盖、心理准备信（WPATH 标准）与按美国各州检索的医生名录，是 transmasculine 社区常用参考。
+  中文实测：HTTP 200，正文中文字符 0/19800（0.0%），英文站
+- [TransBucket - 跨性别手术影像与医生评价社区](https://transbucket.com/) — **无中文** ｜ `中`
+  TransBucket 是长期运营的社群项目，收集跨性别者术后照片、手术记录与医生评价，供准备手术者对照术式效果、疤痕形态与实际恢复情况。其价值在于提供指南之外的实拍样本与他人经验，但内容为用户投稿，个体差异大，需结合专业面诊判断。
+- [HRT Cafe](https://hrt.cafe/) — **无中文** ｜ `低`
+  「HRT Cafe」英文 DIY 激素治疗信息站，聚焦自行获取与用药安全，正文为 SPA 渲染（curl 仅见 Loading），英文无中文，质量偏低需进一步复核。
+  中文实测：HTTP 200 但为 SPA（仅见 Loading 壳），0中文，英文 DIY HRT 站
+- [Transmasc DIY HRT Guide (diyhrt.info)](https://diyhrt.info/transmasc/intro/) — **无中文** ｜ `高` 🆕
+  面向跨性别男性的 DIY 睾酮指南（diyhrt.info 的 transmasc 分册），讲解无法获得处方时安全获取与使用睾酮的要点，内容偏 harm reduction，与 diyhrt.wiki 同生态但独立域名。
+  中文实测：直连 000（本机网络限制），代理 7897 下 HTTP 200；CJK 0，无中文（2026-09-12 实测）
+- [Hormone Replacement Therapy (TransGuy Archive)](https://transguyarchive.wixstudio.com/transguyarchive/post/hormone-replacement-therapy) — **无中文** ｜ `中` 🆕
+  TransGuy Archive（Wix 站点）的睾酮 HRT 全指南，面向跨性别男性系统讲解激素替代治疗的效果时间线、用药方式与注意事项，社区向的一站式睾酮科普。
+  中文实测：HTTP 200；CJK 10/2112156，无中文（2026-09-12 实测）
+- [假體先生（台湾 FTM 医疗转换指南博客，待复核）](https://prosthesisman.tw/blog/ftm-medical-transition-guide) — **未核实** ｜ `中` ⚠️待复核
+  台湾繁体中文站「假體先生」的 FTM 医疗转换专题，按心理评估、荷尔蒙治疗、平胸手术到阴茎重建五大阶段梳理流程、费用与注意事项，并涉及假体（packer/STP）用品介绍。⚠️ 页面有 JS 挑战，需人工浏览器复核正文与语言。
+  中文实测：curl 200 但返回 JS 挑战页《One moment, please...》无法取正文（直连与代理一致）；DuckDuckGo 索引摘要显示繁体中文《Ftm 跨性別醫療轉換完整路徑：從心理評估到手術全攻略》，正文中文占比待浏览器确认
+
+## 手术（3）
+
+- [FtM SRS：变性男性的阴道切除术 (Richard Troy)](https://www.ricktroy.com/zh/ftm-srs%E5%8F%98%E6%80%A7%E7%94%B7%E6%80%A7%E7%9A%84%E9%98%B4%E9%81%93%E5%88%87%E9%99%A4%E6%9C%AF/) — **中文版路径** ｜ `高` 🆕
+  外科医生 Richard Troy 官网的 FTM 性别重置手术（阴道切除术）中文翻译页，讲解手术两步流程、适应人群与注意事项，是少见的中文 FTM 手术科普长文（英文站 /zh/ 路径）。
+  中文实测：HTTP 200；/zh/ 路径 CJK 1966 字，全中文翻译页（2026-09-12 实测）
+- [FTM Top Surgery: A Comprehensive Guide to Your Options (TransAware)](https://transaware.net/ftm-top-surgery-comprehensive-guide-options/) — **无中文** ｜ `高` 🆕
+  TransAware 的 FTM 胸部手术综合指南，系统讲解术式选择的关键因素、资格条件、恢复流程与决策要点，帮助跨性别男性在 keyhole、双切口等术式之间做知情选择，内容由医疗团队撰写。
+  中文实测：HTTP 200；CJK 0/12139，无中文（2026-09-12 实测）
+- [Metoidioplasty.net — Resources & Articles](https://www.metoidioplasty.net/resources/articles/) — **无中文** ｜ `高` 🆕
+  阴蒂释放术（metoidioplasty）专门站：汇集术式文章、资源与医生信息，是 FTM 生殖器重建手术中最垂直的资源入口，与 phallo.net 互补。
+  中文实测：HTTP 200；CJK 0（2026-09-12 实测）
+
+## 嗓音（3）
+
+- [FTM Voice Practice: Free App for a Deeper Voice Presentation (TransVoice App)](https://transvoice.app/guide/ftm-voice-training) — **无中文** ｜ `高` 🆕
+  TransVoice App 的 FTM 嗓音训练免费应用与指南：提供音高定位、练习历史与社区支持，帮助跨性别男性按自己的节奏练习更低沉的嗓音表达，工具+教程一体。
+  中文实测：HTTP 200；CJK 0/225225，无中文（2026-09-12 实测）
+- [3 Healthy Ways to Deepen Your Voice: FTM Voice Masculinization Exercises (Voice by Kylie)](https://www.voicebykylie.com/post/deepen-your-voice-ftm-masculinization-exercises) — **无中文** ｜ `中` 🆕
+  嗓音教练 Kylie 的 FTM 嗓音男性化练习文章：教授 TA 肌激活与喉位降低等健康安全的沉声技巧，附 3 组可跟练的练习方法，适合自学入门。
+  中文实测：HTTP 200；CJK 8/1014241，无中文（2026-09-12 实测）
+- [olg-voice-track（睾酮嗓音变化逐月追踪）](https://github.com/olg6328/olg-voice-track) — **无中文** ｜ `低` 🆕
+  个人仓库：记录睾酮 HRT 期间嗓音变化的逐月追踪数据（2022-11 至 2024），包含录音与音高数据，是 FTM 嗓音男性化过程的真实样本参考。
+  中文实测：GitHub API 实测 README CJK 0/62847（2026-09-12 实测）
+
+## 工具（5）
+
+- [Trans-Prism（跨性别实用工具箱，12★）](https://github.com/Trans-Prism/Trans-Prism) — **原生中文** ｜ `中`
+  专为跨性别群体打造的极简、安全、双擎驱动的中文实用工具箱（12★，2026-09-09 仍在推送），聚合跨性别者日常用得到的自查与换算类小工具，界面为中文，属活跃维护中的中文社区项目。
+  中文实测：GitHub 仓库页 HTTP 200，中文 1708/16127（10.6%），README 为中文；GitHub API 实测 12★，pushed 2026-09-09
+- [hrmnl](https://github.com/ch4rley/hrmnl) — **无中文** ｜ `低`
+  ch4rley 开发的 HRT（激素替代治疗）追踪 Web 应用，帮助用户记录用药剂量与时间，英文界面，早期个人项目，GitHub 1★。
+  中文实测：GitHub API: 1★, 描述「hrmnl web application for tracking hormone replacement therapy」; README 中文占比 0/453
+- [chrysalide](https://github.com/kushiemoon-dev/chrysalide) — **无中文** ｜ `中`
+  kushiemoon-dev 的本地优先（local-first）PWA，供跨性别者管理 HRT 用药、预约与身体指标，隐私友好、可离线，英文界面，2026 年仍在更新。
+  中文实测：GitHub API: 1★, 描述「local-first medical tracking PWA for trans people managing HRT」; 2026-09 活跃; README 中文占比 0/5891
+- [Turn Me Into A Guy（跨性别男孩小工具）](https://www.turn-me-into-a-boy.com/) — **无中文** ｜ `低`
+  输入名字即生成「变成男孩」页面的轻量趣味网站（turn-me-into-a-girl.com 的跨男对应版），用小仪式感做自我认同确认，代码版为 GitHub noktmezo/turn-me-into-a-boy（5★）。属情感支持向小工具，非知识资源。
+  中文实测：HTTP 200，正文中文 0/16150（0.0%），英文站
+- [turn-me-into-a-boy（跨男版自我确认油猴脚本，5★）](https://github.com/noktmezo/turn-me-into-a-boy) — **无中文** ｜ `低`
+  把 turn-me-into-a-girl.com 转化为男孩对应版本的浏览器用户脚本（5★），输入名字生成「你已经是男孩了」的确认页面，属情感支持向小工具，站点版为 turn-me-into-a-boy.com。
+  中文实测：GitHub API 实测 5★，pushed 2023-06-23；topic:transmasculine 检索命中
+
+## 个人站点（2）
+
+- [FTM Blog（Authentic Transmasculine Lives）](https://www.ftmblog.website/) — **无中文** ｜ `中`
+  面向跨男性别群体的英文博客站（FTM Blog），以「真实活着的跨男性别生命经验」为定位，发布跨男性别者的生活、医疗与身份叙事文章及社群资源，属个人/小团队运营的经验分享型站点。
+  中文实测：HTTP 200，正文中文 0/9636（0.0%），英文站
+- [T-Time — A Media Series About Trans Men and Transmasculine People](https://ttimemedia.org/) — **无中文** ｜ `中` 🆕
+  T-Time 媒体系列：专门讲述跨性别男性与跨男性人群的故事、历史与报道的独立媒体项目（GitHub 开源，站点同名），叙事向的跨男声音平台。
+  中文实测：HTTP 200；CJK 0（2026-09-12 实测）
+
+## 导航（5）
+
+- [2345.LGBT（开源导航源码）](https://github.com/project-trans/2345.LGBT) — **原生中文** ｜ `中`
+  Project Trans 的 2345.LGBT 开源导航仓库（63★），其部署站点 2345.lgbt 是简体中文跨性别导航站，聚合社群、医疗、法律等资源入口。
+  中文实测：GitHub API: 63★, 部署站点 2345.lgbt 为简体中文跨性别导航站; README 以英文元信息为主
+- [2345.LGBT（跨性别站点导航）](https://2345.lgbt/zh-cn/) — **原生中文** ｜ `高`
+  中文跨性别站点的聚合导航，被 FtM.wiki 明确推荐为『更多跨性别男性站点的入口』，集中收录社群、知识库、医疗与工具类站点，是查找中文资源的优质起点。
+  中文实测：根路径返回 meta-refresh 至 /zh-cn；/zh-cn HTTP 200，正文中文 149/1396（约 11%），为中文目录/导航站。
+- [TransNav 蓝粉白地图——跨性别导航站](https://www.transnav.org/) — **多语言含中文** ｜ `中`
+  「TransNav 蓝粉白地图」中文跨性别导航站，聚合国内外跨性别相关站点、医疗资源与社群入口，标题与导言为中文，属导航类，是 FTM 生态里少有的新增中文索引型站点，便于一站式发现资源。
+  中文实测：HTTP 200，正文中文约1355/13343字（约10%，导航站含大量英文链接文本，标题与导言为中文），多语言含中文
+- [boyboobs](https://github.com/logolights/boyboobs) — **无中文** ｜ `低`
+  logolights 的跨性别男性（transmasc）资源网站，面向 FtM 群体汇总科普与实用链接，英文界面，个人小项目，GitHub 0★。
+  中文实测：GitHub API: 0★, 描述「Transmasc resource website」; README 中文占比 0/42
+- [Jack's Trans Male Resources](https://www.transmaleresources.com/) — **无中文** ｜ `中` 🆕
+  个人整理的跨性别男性资源库：收录跨男题材电影、剧集、纪录片、采访与游戏等文化媒介清单，含非二元与性别非常规表达，文化向导航站。
+  中文实测：HTTP 200；CJK 10/1124563，无中文（2026-09-12 实测）
