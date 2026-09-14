@@ -1,33 +1,40 @@
 # FTM / MTF 跨性别资源索引
 
-面向中文读者的跨性别网络资源调研索引，分 **MTF（跨性别女性）** 与 **FTM（跨性别男性）** 两条线整理。2026-09-11 起经多轮检索、逐站实测与口径筛选，全部条目均记录核验状态与中文支持证据。
+面向中文读者的跨性别网络资源调研索引，分 **MTF（跨性别女性）** 与 **FTM（跨性别男性）** 两条线整理，两侧呈现结构完全对称。2026-09-11 起经多轮检索、逐站实测与口径筛选，全部条目均记录核验状态与中文支持证据。
 
-## 数据概览
+## 数据概览（两侧对称）
 
-| 数据集 | 条数 | 口径 | 入口 |
-| --- | --- | --- | --- |
-| FTM 终极清单 | 156 | 三套数据集合并定稿（09-12） | [lists/FTM_终极清单.md](lists/FTM_终极清单.md) / [.html](lists/FTM_终极清单.html) |
-| FTM 完善全集 | 257 | 完善轮八线检索并集，最全 | [lists/ftm_complete.md](lists/ftm_complete.md) / [.html](lists/ftm_complete.html) |
-| FTM 网友自建精选 | 84 | 仅个人/社群/开源自建，剔除机构商业 | [lists/ftm_网友自建清单.md](lists/ftm_网友自建清单.md) / [.html](lists/ftm_网友自建清单.html) |
-| MTF 网友自制精选 | 70 | 网友自制 + 可读性高 + 中文优先 | [lists/MTF_清单_网友自制精选.html](lists/MTF_清单_网友自制精选.html) |
+| 层级 | FTM（跨性别男性） | MTF（跨性别女性） |
+| --- | --- | --- |
+| 终极清单（全口径定稿） | [FTM_终极清单](lists/FTM_终极清单.md) ｜ 156 条 | [MTF_终极清单](lists/MTF_终极清单.md) ｜ 243 条 |
+| 完善全集（最全存档） | [ftm_complete](lists/ftm_complete.md) ｜ 257 条 | [mtf_complete](lists/mtf_complete.md) ｜ 243 条 |
+| 网友自建精选（窄口径） | [ftm_网友自建清单](lists/ftm_网友自建清单.md) ｜ 84 条 | [mtf_网友自建清单](lists/mtf_网友自建清单.md) ｜ 70 条 |
+
+每层均提供 Markdown 与自包含 HTML 两种格式（`lists/` 内同名 `.html`），两侧由同一渲染器 `scripts/render_lists.py` 生成，版式一致。
 
 ## 目录结构
 
 ```
-├── data/       结构化数据（JSON），字段含 domain/url/category/status/zh_evidence/verified_at 等
-├── lists/      人类可读清单（Markdown + 自包含 HTML，直接双击打开）
+├── data/       结构化数据（JSON），两侧同名成对，字段含 domain/url/category/status/zh_evidence 等
+│   ├── {FTM,MTF}_终极清单.json    全口径定稿
+│   ├── {ftm,mtf}_complete.json    完善轮全集存档
+│   └── {ftm,mtf}_网友自建清单.json 网友自建精选
+├── lists/      人类可读清单（Markdown + 自包含 HTML，直接双击打开），命名与 data/ 一一对应
 ├── docs/       调研报告与专项文档
-└── scripts/    生成脚本（合并/筛选/渲染）
+└── scripts/    生成脚本（统一渲染器 + 各轮合并/筛选脚本）
 ```
 
-## 数据文件说明
+## 数据口径说明
 
-| 文件 | 内容 |
+| 文件（成对） | 口径 |
 | --- | --- |
-| `data/FTM_终极清单.json` | 156 条定稿版，分类：知识库 28 / 医疗用药 42 / 社区组织 26 / 开源项目 19 / 工具 14 / 社区论坛 8 / 嗓音 6 / 导航 6 / 束胸假体 4 / 手术 2 / 个人站点 1 |
-| `data/ftm_complete.json` | 257 条完善全集（在线 226 / 待复核 22 / 失效 9，含中文 64） |
-| `data/ftm_网友自建清单.json` | 84 条精选子集（在线 82，含中文 39） |
-| `data/mtf_sources.json` | 70 条 MTF 精选主表，含中文实测证据字段 |
+| `{FTM,MTF}_终极清单.json` | 全口径定稿：FTM 为三套数据集合并（156），MTF 为完善轮八线合并（243），均含官方机构与英文站 |
+| `{ftm,mtf}_complete.json` | 完善轮最全并集：FTM 257（在线 226/待复核 22/失效 9）、MTF 243（在线 233/待复核 8/失效 2） |
+| `{ftm,mtf}_网友自建清单.json` | 窄口径精选：仅个人/社群/开源自建，剔除机构与商业，中文优先（FTM 84 / MTF 70） |
+
+分类分布：
+- **FTM**（终极清单 156）：知识库 28 / 医疗用药 42 / 社区组织 26 / 开源项目 19 / 工具 14 / 社区论坛 8 / 嗓音 6 / 导航 6 / 束胸假体 4 / 手术 2 / 个人站点 1
+- **MTF**（终极清单 243）：开源项目 72 / 社区与组织 43 / 医疗与政策 41 / 法律权益 41 / 知识站点 26 / 工具与服务 20
 
 ## 主要发现
 
@@ -44,13 +51,11 @@
 
 ## scripts 说明
 
-脚本为调研过程留档，内含原始工作区的绝对路径，如需复跑请先修改路径常量：
+- `render_lists.py`：**统一渲染器**——输入任一数据 JSON，输出同版式 Markdown + HTML 清单（本仓库 lists/ 全部产物）
+- FTM 管线：`merge_final.py`（三套合并 → 终极清单）→ `merge_complete.py`（完善轮合并 → 全集）→ `filter_grassroots.py`（精选）
+- MTF 管线：`merge_mtf.py`（八线合并 → 全集）→ `filter_selected.py`（两轮精选）→ `gen_mtf_html.py` / `gen_mtf_sources_md.py`
 
-- `merge_final.py`：三套 FTM 数据集 → 终极清单（156）
-- `merge_complete.py`：FTM 完善轮 raw 批次 → 全集（257）
-- `filter_grassroots.py`：FTM 全集 → 网友自建精选（84）+ 剔除归档
-- `merge_mtf.py` / `filter_selected.py`：MTF raw 合并 → 243 → 精选 70
-- `gen_mtf_html.py` / `gen_mtf_sources_md.py`：主表 → HTML / Markdown 清单
+脚本为调研过程留档，内含原始工作区的绝对路径，如需复跑请先修改路径常量。
 
 ## 时效声明
 

@@ -1,0 +1,509 @@
+# MTF（跨性别女性）项目与网站 · 终极清单
+
+> 共 **243** 条 ｜ 在线 233 ｜ 待复核 8 ｜ 失效 2 ｜ 含中文 106
+
+> 口径：完善轮八线合并定稿，全口径（含官方机构与英文站）
+
+## 医疗与政策（41）
+
+- [Endocrine Society 内分泌学会](https://www.endocrine.org/) `endocrine.org` ｜ 在线
+  - 拥有百年历史的国际内分泌学会(Endocrine Society)官网，推动激素科学与公共健康，发布临床实践指南，并关注睾酮、糖尿病、肥胖等内分泌议题，其激素健康网络面向公众做疾病科普。
+- [香港家庭计划指导会](https://www.famplan.org.hk/) `famplan.org.hk` ｜ 在线 ｜ 含中文
+  - 香港历史悠久的性与生殖健康服务机构，提供性教育、妇健与生育相关医疗服务与资料，可作为港区就医与教育资源的参照。
+- [Fenway Health — 波士顿 LGBTQIA+ 健康服务机构](https://fenwayhealth.org/) `fenwayhealth.org` ｜ 在线
+  - 波士顿的 Fenway Health 是历史悠久的 LGBTQIA+ 健康服务机构，旗下 Fenway Institute 与 National LGBTQIA+ Health Education Center 提供跨性别健康照护、培训与技术援助，并主办跨性别健康会议。
+- [GenderGP — 私营性别肯定照护机构](https://www.gendergp.com/) `gendergp.com` ｜ 在线
+  - 以知情同意模式提供线上性别肯定照护的机构，覆盖激素转介与过渡方案；站点公开英国性别诊所等待数据（首诊平均等待五年以上）、费用结构与 WPATH 等指南依据。
+- [GIRES — 英国性别认同研究与教育协会](https://www.gires.org.uk/) `gires.org.uk` ｜ 在线
+  - 英国老牌研究与教育机构，同时服务跨性别个人、学校、雇主与政策制定者，内容集中在改善跨性别医疗、支持青少年与职场/教育包容。
+- [GLMA 健康平等](https://glma.org/) `glma.org` ｜ 在线
+  - 历史最悠久、规模最大的LGBTQ+医疗专业人员协会GLMA，通过研究、倡导与教育促进LGBTQ+健康公平，曾起诉北卡州以捍卫性别肯定医疗，并为医疗从业者与患者提供继续教育资源。
+- [MedlinePlus — 美国国家医学图书馆公众健康信息库](https://medlineplus.gov/) `medlineplus.gov` ｜ 在线
+  - 由美国国家医学图书馆运营的公众健康信息门户，内容经权威机构审核，覆盖疾病、药物与健康主题（含跨性别相关健康条目）。
+- [默沙东诊疗手册（中文版）](https://www.msdmanuals.cn/) `msdmanuals.cn` ｜ 在线 ｜ 含中文
+  - 覆盖全医学领域的权威参考手册中文版，分医学专业人士版与大众版，可用于查阅跨性别医疗、激素治疗相关的循证条目。
+- [NHS — Gender dysphoria（性别不安）官方页面](https://www.nhs.uk/conditions/gender-dysphoria/) `nhs.uk` ｜ 在线
+  - 英国国民医疗服务体系官方页面，讲清性别不一致的主要征象、GP 转诊与性别诊所路径、成人激素治疗/声音治疗/手术选项，以及私自购买激素的用药警告与生育保存提示。
+- [Planned Parenthood — Transgender 科普](https://www.plannedparenthood.org/learn/gender-identity/transgender) `plannedparenthood.org` ｜ 在线
+  - 美国 Planned Parenthood 的跨性别与非二元身份科普：性别认同、性别表达、性别烦躁与性别欣快、passing 的争议、以及如何寻找性别肯定医疗（含激素治疗）服务。
+- [Sandyford — NHS 大格拉斯哥与克莱德性健康服务](https://www.sandyford.org/) `sandyford.org` ｜ 在线
+  - 苏格兰 NHS 体系的专科性健康服务机构，提供性别肯定临床服务与转介路径说明，属于公立性别服务体系的实务样本。
+- [Transfeminine Science 中文译本存档站](https://tfsci.mtf.wiki/) `tfsci.mtf.wiki` ｜ 在线 ｜ 含中文
+  - Project Trans 附属的「女性倾向跨性别者科学」中文译本站，为女性化激素治疗（FHT/GaHT）提供循证指引，行文严谨、引经据典，可视为 MtF.wiki 药物板块的先行与拓展。
+- [Transfeminine Science](https://transfemscience.org/) `transfemscience.org` ｜ 在线
+  - 专注跨性别女性激素治疗(MtF HRT)的科普与研究站点，由跨性别者撰写、供跨性别者与医疗者使用，提供雌激素、抗雄等 feminizing hormone therapy 的循证综述，文章以wiki式持续更新。
+- [WebMD — 跨性别身份条目（医生审阅）](https://www.webmd.com/sex-relationships/what-is-transgender) `webmd.com` ｜ 在线
+  - 面向大众的医学门户条目，由执业医师审阅，讲清跨性别含义、跨性别历史、性别烦躁与过渡方式、以及跨性别人群面临的污名与歧视。
+- [WPATH 世界跨性别健康专业协会](https://www.wpath.org/) `wpath.org` ｜ 在线
+  - 世界跨性别健康专业协会(WPATH)官网，发布《跨性别健康照护标准》第8版(SOC8)及多项公共政策声明，是跨性别健康照护领域最具权威性的国际临床指南机构，其标准被全球临床医生广泛采用，并定期举办科学研讨会。
+- [HRT药典 — 跨性别女性安全且温和的 HRT 循证减害指南](https://hrtyaku.com/zh) `hrtyaku.com` ｜ 在线 ｜ 含中文
+  - 基于 WPATH SOC 8 与 Endocrine Society 的跨性别女性 HRT 安全减害中文指南，含用药路径、剂量上限、血检自查与中国友好医疗资源。
+- [Hormone.wiki — 激素替代治疗中文 Wiki](https://hormone.wiki/zh-hans/) `hormone.wiki` ｜ 在线 ｜ 含中文
+  - 面向跨性别群体的 HRT（激素替代治疗）中文 Wiki，覆盖 HRT 综述、雌激素/抗雄等条目，可作为女性化激素治疗的入门参考。
+- [MtF变性患者女性化激素替代治疗指南（Richard Troy 中文版）](https://www.ricktroy.com/zh/mtf%E5%8F%98%E6%80%A7%E6%82%A3%E8%80%85%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E6%9B%BF%E4%BB%A3%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97/) `ricktroy.com` ｜ 在线 ｜ 含中文
+  - Richard Troy 医生撰写的 MtF 女性化激素替代治疗（雌二醇/抗雄等用药方案）指南的官方中文译本，站点另有中文健康科普栏目。
+- [Kamol Cosmetic Hospital 咖蒙整形医院（中文版）](https://kamolhospital.com/zh-hans/) `kamolhospital.com` ｜ 在线 ｜ 含中文
+  - 泰国曼谷的整形医院，专设性别肯定/变性手术（SRS）项目，官网提供完整简体中文版本与中文服务。
+- [DIY HRT Directory](https://diyhrt.wiki/) `diyhrt.wiki` ｜ 在线
+  - DIY HRT 目录站：汇总雌二醇/抗雄等激素药物的供应商与安全信息，附 transfemscience 等循证链接，社群维护的减害资源。
+- [TransHealthcare — 性别肯定手术医生数据库](https://transhealthcare.org/) `transhealthcare.org` ｜ 在线
+  - 2011 年至今全球最大的性别肯定手术（含 MTF 阴道成形术）外科医生数据库，可按术式/地区检索医生并了解手术须知。
+- [LGBTQ+ Healthcare Directory（GLMA）](https://lgbtqhealthcaredirectory.org/) `lgbtqhealthcaredirectory.org` ｜ 在线
+  - GLMA 运营的免费可检索数据库，帮助寻找对跨性别友善的医生与医疗提供者，覆盖激素治疗与手术相关专科。
+- [Facialteam — 面部女性化手术（FFS）专家](https://facialteam.eu/) `facialteam.eu` ｜ 在线
+  - 专注面部女性化手术（FFS）的西班牙诊所，提供额骨重塑、下颌/颏部成形等术式介绍与术前评估，FFS 领域标杆机构。
+- [Suporn Clinic — 泰国性别确认手术（SRS）诊所](https://www.supornclinic.com/) `supornclinic.com` ｜ 在线
+  - Dr. Suporn/Bank 主理的泰国春武里 SRS 诊所，以非倒置法阴道成形术闻名，官网详细说明术式、预约与恢复流程。
+- [GrS Montréal — 蒙特利尔性别确认手术中心](https://www.grsmontreal.com/) `grsmontreal.com` ｜ 在线
+  - 加拿大蒙特利尔公立体系的性别确认手术中心，提供阴道成形术、FFS 等术式信息与转介流程，北美老牌 SRS 机构。
+- [Dr. Kanit — 泰国变性/整形手术医生](https://www.drkanit.com/) `drkanit.com` ｜ 在线
+  - 泰国曼谷整形外科医生 Dr. Kanit 官网，专精变性手术（SRS）、面部与身体塑形，提供术式与案例信息。
+- [Bangkok Plastic Surgery Clinic — 泰国变性手术诊所](https://www.bangkokplasticsurgery.com/) `bangkokplasticsurgery.com` ｜ 在线
+  - 曼谷整形诊所，提供 MTF 变性手术（Sex Change Surgery）与美容整形项目，官网英文介绍术式与价格。
+- [PAI Clinic — Preecha Aesthetic Institute（泰国 SRS）](https://www.pai.co.th/) `pai.co.th` ｜ 在线
+  - Dr. Preecha 创立的曼谷 PAI 诊所，泰国变性手术（SRS）先驱机构之一，官网介绍 SRS/FFS 术式与术后照护。
+- [GenderCare — 英国性别治疗专科医生网络](https://www.gendercare.co.uk/) `gendercare.co.uk` ｜ 在线
+  - 英国私营性别医疗网络，由 GIC 专科医生提供 HRT 评估、激素处方与手术转介，是 NHS 之外的常见路径。
+- [The London Transgender Clinic](https://www.thelondontransgenderclinic.uk/) `thelondontransgenderclinic.uk` ｜ 在线
+  - 伦敦跨性别诊所，提供面部/身体女性化手术与性别确认手术，官网含术式、医生团队与咨询流程。
+- [Callen-Lorde — 纽约 LGBTQ+ 健康中心](https://www.callen-lorde.org/) `callen-lorde.org` ｜ 在线
+  - 纽约老牌 LGBTQ+ 社区卫生中心，提供跨性别激素治疗（HRT）与初级保健，其跨性别健康项目为全美范本。
+- [Howard Brown Health — 芝加哥 LGBTQ+ 健康中心](https://howardbrown.org/) `howardbrown.org` ｜ 在线
+  - 芝加哥综合 LGBTQ+ 健康机构，提供跨性别与非二元（TGNC）医疗、激素治疗与初级保健。
+- [FOLX Health — LGBTQIA+ 线上激素治疗](https://www.folxhealth.com/) `folxhealth.com` ｜ 在线
+  - 美国全国性线上性别肯定医疗（HRT）提供商，通过远程问诊开处雌二醇/抗雄等药物并邮寄到家。
+- [Plume Clinic — 线上性别肯定照护与 HRT](https://getplume.co/) `getplume.co` ｜ 在线
+  - Plume 是面向跨性别与性别不一致人群的虚拟性别肯定照护诊所，提供 HRT 处方、血检与护理支持。
+- [QueerDoc — 跨性别线上医疗（Trans Online Doctors Office）](https://www.queerdoc.com/) `queerdoc.com` ｜ 在线
+  - 由酷儿医生创办的线上性别肯定医疗诊所，提供 HRT、性别不安评估与远程处方。
+- [Trans Care BC — 卑诗省跨性别医疗资源](https://www.transcarebc.ca/) `transcarebc.ca` ｜ 在线
+  - 加拿大 BC 省的省级跨性别医疗项目，提供激素治疗、手术准备与社区服务导航资源。
+- [Rainbow Health Ontario — 2SLGBTQ+ 健康公平组织](https://www.rainbowhealthontario.ca/) `rainbowhealthontario.ca` ｜ 在线
+  - 安大略省 2SLGBTQ+ 健康公平组织，提供跨性别医疗转介导航、从业者培训与服务目录。
+- [Undead Voice Lab — 跨性别嗓音训练](https://www.undeadvoicelab.com/) `undeadvoicelab.com` ｜ 在线
+  - 面向跨性别者的线上嗓音女性化训练课程（Nicole Gress），含 App、团体课与一对一教学。
+- [Seattle Voice Lab — MTF/FTM 跨性别嗓音训练](https://www.seattlevoicelab.com/) `seattlevoicelab.com` ｜ 在线
+  - 西雅图嗓音实验室提供跨性别嗓音训练（MTF 女性化 / FTM / 中性音）与歌唱课程，官网含大量嗓音知识资源。
+- [Scinguistics — 嗓音科学百科与博客](https://scinguistics.com/) `scinguistics.com` ｜ 在线
+  - 嗓音科学社区站，设有跨性别嗓音（含女性化发声技巧）专题百科与教程，Discord 社区活跃。
+- [Christella Antoni — 跨性别嗓音治疗（Gender Voice Centre）](https://www.christellaantoni.co.uk/) `christellaantoni.co.uk` ｜ 在线
+  - 伦敦资深言语治疗师 Christella Antoni 的嗓音女性化服务，提供一对一治疗、App 与 NHS 合作路径。
+
+## 工具与服务（20）
+
+- [Crisis Text Line — 短信危机干预](https://www.crisistextline.org/) `crisistextline.org` ｜ 在线
+  - 美国短信危机干预服务（发送 HOME 至 741741），按自伤、自杀、孤独、关系暴力等主题组织自助资料；可作为危机时刻的即时求助入口。
+- [TransVoiceLessons — 嗓音性别肯定训练](https://transvoicelessons.com/) `transvoicelessons.com` ｜ 在线
+  - 面向跨性别与非二元人群的嗓音训练服务，目标是改变声音的性别感知，提供偏女性化、男性化或中性的课程与预约通道。
+- [HRT Tracker — 开源激素追踪与资源](https://hrt.xmyun.org/) `hrt.xmyun.org` ｜ 在线 ｜ 含中文
+  - 开源 HRT 激素追踪工具站，提供激素单位在线换算、用药参考与变化时间线，专为跨性别群体设计
+- [MTF World | 跨性别女性 HRT 工具 | Transgender HRT Tracker](https://www.mtf-world.com/) `mtf-world.com` ｜ 在线 ｜ 含中文
+  - 跨性别女性 HRT 随身记录与管理终端（Web 应用），提供激素用药记录与追踪功能，中日文界面
+- [Fit4U Solutions — Tucking 内衣品牌](https://fit4usolutions.com/) `fit4usolutions.com` ｜ 在线
+  - 专业 tucking 内衣品牌（Tuck It Up 系列），提供 tucking 教学与产品（生活实用类用品，注明）。
+- [The Breast Form Store — 义乳专门店](https://www.thebreastformstore.com/) `thebreastformstore.com` ｜ 在线
+  - 老牌跨性别/变装用品专门店，主营义乳、假发、塑身内衣等 MTF 用品（英文站，可国际邮寄）
+- [Glamour Boutique — 变装服饰商店](https://glamourboutique.com/) `glamourboutique.com` ｜ 在线
+  - 美国变装/CD 用品商店，销售假发、义乳、塑身衣、女装与化妆品等实用 MTF 用品（英文）
+- [TransHelper（跨性别信息库）](https://transhelper.org/) `transhelper.org` ｜ 在线 ｜ 含中文
+  - 开源跨性别信息检索平台，混合检索+语义搜索聚合跨性别相关信息，含知识树与来源站点分类浏览
+- [跨儿心理小组 - Trans Well-being Team](https://kuaerxinli.org/) `kuaerxinli.org` ｜ 在线 ｜ 含中文
+  - 跨儿心理小组（跨性别心理健康服务），提供跨性别友善心理咨询资源、科普与服务信息
+- [TransNation Asia（認識新朋友）](https://www.transnation.asia/) `transnation.asia` ｜ 在线 ｜ 含中文
+  - TransNation Asia 香港跨性别组织网站，提供跨性别社群的聚会、活动与服务信息（繁体中文）
+- [Featherline — HRT Tracker](https://asterismlabs.io/featherline/) `asterismlabs.io` ｜ 在线 ｜ 含中文
+  - 开源 Android HRT 追踪应用 Featherline 官网：剂量记录、药代动力学预测、化验结果管理，本地加密离线
+- [MioMtFWiki — 跨性别社区参考站](https://kitsumio.github.io/MioMtFWiki/) `kitsumio.github.io` ｜ 在线 ｜ 含中文
+  - 社区共建的跨性别女性参考站（结论优先），覆盖性别认同入门、HRT 用药方案、化验判断与医疗资源不足时的可执行信息
+- [KnowSex Post — 性教育知识库](https://post.knowsex.net/) `post.knowsex.net` ｜ 在线 ｜ 含中文
+  - 中文性教育知识库，被跨性别资源目录收录，提供含跨性别在内的多元性教育资料（非跨性别专属）
+- [跨儿学术小组（One Among Us Webservice）](https://oau.edu.kg/) `oau.edu.kg` ｜ 在线 ｜ 含中文
+  - 跨儿学术小组官网，分享跨儿相关学术动态与理论实践知识，支持跨儿求学、进修与工作
+- [生如夏花知识库](https://viva-la-vita.org/) `viva-la-vita.org` ｜ 在线 ｜ 含中文
+  - 生如夏花知识库（探索性体验相关），中文性少数自我探索与性教育知识库，被跨性别资源目录收录
+- [HRT Recorder Web（TransmtfTeam/Transmtf-HRT-Tracker）](https://github.com/TransmtfTeam/Transmtf-HRT-Tracker) `github.com/TransmtfTeam/Transmtf-HRT-Tracker` ｜ 在线 ｜ 含中文
+  - 开源网页 HRT 记录与雌二醇水平模拟工具，多给药途径（注射/口服/舌下/凝胶/贴片）实时可视化，数据本地存储
+- [hrt.cafe — DIY HRT Directory](https://hrt.cafe/) `hrt.cafe` ｜ 在线
+  - DIY HRT 供应商目录与激素注射用品指南（Transfem/Transmasc 分册），仅作调研收录，用药请遵医嘱
+- [Janet's Closet — 变装与跨性别服饰商店](https://www.janetscloset.com/) `janetscloset.com` ｜ 在线
+  - 美国变装与跨性别服饰商店，主营假发、义乳、塑身内衣、鞋类与变装用品（英文）
+- [Origami Customs — 定制内衣泳装](https://origamicustoms.com/) `origamicustoms.com` ｜ 在线
+  - 跨性别社群知名定制内衣/泳装品牌，提供 gaff（下体隐藏内裤）等跨性别女性实用用品（英文）
+- [Trans Health Project（A4TE）](https://transhealthproject.org/) `transhealthproject.org` ｜ 在线
+  - A4TE 旗下跨性别健康导航项目，提供医保报销、医疗资源查找等健康权益指南（英文）
+
+## 开源项目（72）
+
+- [2345.LGBT 跨性别导航站源码](https://github.com/project-trans/2345.LGBT) `github.com/project-trans/2345.LGBT` ｜ 在线 ｜ 含中文
+  - 官方描述「Transgender Navigation (2345.LGBT)」，63 stars；线上站点当前不可达，但仓库保留了跨性别资源导航站的结构与条目。
+- [MtF.wiki 站点源码仓库](https://github.com/project-trans/MtF-wiki) `github.com/project-trans/MtF-wiki` ｜ 在线 ｜ 含中文
+  - 官方描述为「free, open, and continuously updating transgender female knowledge integration site」；1084 stars，Markdown 编写，是 MtF.wiki 全部知识与文档的源头，可直接贡献或离线阅读。
+- [RLE.wiki 真实生活经验站源码](https://github.com/project-trans/RLE-wiki) `github.com/project-trans/RLE-wiki` ｜ 在线 ｜ 含中文
+  - 官方描述「RLE.wiki is a free, open, and continuously updated transgender real-life-experience site」，261 stars，覆盖 MtF/FtM/酷儿群体的现实生活经验条目。
+- [WPATH《照护标准》第 8 版中文翻译](https://github.com/project-trans/SOC-8) `github.com/project-trans/SOC-8` ｜ 在线 ｜ 含中文
+  - WPATH SOC-8（世界跨性别健康专业协会照护标准第八版）的中文翻译仓库，是国际上最常被引用的跨性别医疗照护基准文档的汉化版本。
+- [Project Trans 官方博客仓库](https://github.com/project-trans/blog) `github.com/project-trans/blog` ｜ 在线 ｜ 含中文
+  - 官方描述「Project Trans Blog」，发布 MtF.wiki/RLE.wiki 等项目的更新与社群议题文章。
+- [中国跨性别法律资料仓库](https://github.com/project-trans/china-legal) `github.com/project-trans/china-legal` ｜ 在线 ｜ 含中文
+  - Project Trans 的中国法律主题仓库，配套 legal-spec 整理境内法规、司法与行政实务材料。
+- [中华人民共和国跨性别相关法律法规变迁](https://github.com/project-trans/legal-spec) `github.com/project-trans/legal-spec` ｜ 在线 ｜ 含中文
+  - 官方描述「中华人民共和国跨性别相关法律法规变迁」，逐年梳理中国与跨性别相关的法律、行政法规与部委文件变化，是境内政策研究的一手整理。
+- [跨性别用户报告集](https://github.com/project-trans/reports) `github.com/project-trans/reports` ｜ 在线 ｜ 含中文
+  - 官方描述「用户报告」，汇集跨性别者在就医、证件变更、用药等环节的真实经历记录，可作为制度落地的经验证据。
+- [跨儿计划 RIME 输入法词典](https://github.com/project-trans/rime-dict) `github.com/project-trans/rime-dict` ｜ 在线 ｜ 含中文
+  - 官方描述「跨儿计划 RIME 词典」，为输入法补充跨性别相关词汇与专有名词，属社群工具的典型形态。
+- [Transfeminine Science 简体中文存档站源码](https://github.com/project-trans/transfeminine-science) `github.com/project-trans/transfeminine-science` ｜ 在线 ｜ 含中文
+  - 官方描述「Transfeminine Science (Simplified Chinese) Archive Site」，即 tfsci.mtf.wiki 的站点源码与译文仓库，便于离线与版本追溯。
+- [One Among Us 纪念站数据仓库](https://github.com/one-among-us/data) `github.com/one-among-us/data` ｜ 在线 ｜ 含中文
+  - One Among Us（one-among.us）跨性别逝者纪念站的条目数据仓库，179 stars，存放全部纪念条目，欢迎贡献，贡献文档为中文。
+- [One Among Us 纪念站前端](https://github.com/one-among-us/web) `github.com/one-among-us/web` ｜ 在线 ｜ 含中文
+  - one-among.us 纪念站前端（Vue），34 stars，README 为中文，与 data/backend 构成纪念站完整工程。
+- [One Among Us 纪念站后端](https://github.com/one-among-us/backend) `github.com/one-among-us/backend` ｜ 在线
+  - one-among.us 纪念站后端服务（Kotlin），3 stars，全英文仓库。
+- [tg-blog — Telegram 频道离线博客化展示](https://github.com/one-among-us/tg-blog) `github.com/one-among-us/tg-blog` ｜ 在线
+  - 将离线 Telegram 频道数据以博客形式展示的系统（Vue），70 stars，是 OAU 数字档案管线中纪念频道展示层。
+- [TelegramBackup — Telegram 频道备份工具](https://github.com/one-among-us/TelegramBackup) `github.com/one-among-us/TelegramBackup` ｜ 在线
+  - Telegram 频道备份与展示工具（Python），32 stars，为 OAU 数字档案备份逝者频道数据。
+- [TwitterBackup — Twitter 账号备份工具](https://github.com/one-among-us/TwitterBackup) `github.com/one-among-us/TwitterBackup` ｜ 在线
+  - 用 Twitter API 批量备份账号数据的工具（Python），34 stars，OAU 数字档案管线的社媒存档组件。
+- [TransAcademicUniGuide 跨性别者大学报考指南](https://github.com/one-among-us/TransAcademicUniGuide) `github.com/one-among-us/TransAcademicUniGuide` ｜ 在线 ｜ 含中文
+  - 共同编辑的跨性别者理想大学报考指南（HTML），7 stars，覆盖升学环境选择等实用内容。
+- [neo-RLEwiki 跨性别真实生活经验站](https://github.com/one-among-us/neo-RLEwiki) `github.com/one-among-us/neo-RLEwiki` ｜ 在线 ｜ 含中文
+  - 免费、开放、持续更新的跨性别真实生活经验（RLE）站点仓库（Markdown），3 stars。
+- [跨性别中文数字档案馆与资料库](https://github.com/project-polymorph/trans-digital-cn) `github.com/project-polymorph/trans-digital-cn` ｜ 在线 ｜ 含中文
+  - 跨性别中文数字档案馆与资料库主仓库，113 stars，系统收集跨性别中文资料，是中文跨性别数字档案的代表项目。
+- [中文跨性别相关新闻存档站点](https://github.com/project-polymorph/news-website) `github.com/project-polymorph/news-website` ｜ 在线 ｜ 含中文
+  - 中文跨性别相关新闻存档站点仓库，5 stars，持续存档跨性别议题中文新闻。
+- [跨性别相关原始网页存档](https://github.com/project-polymorph/webpage_archive) `github.com/project-polymorph/webpage_archive` ｜ 在线 ｜ 含中文
+  - 跨性别相关原始网页存档仓库（HTML），3 stars，保存易失的中文跨性别网页原件。
+- [HRT 在线药商价格对比表](https://github.com/project-polymorph/HRT-price-comparison-CSV) `github.com/project-polymorph/HRT-price-comparison-CSV` ｜ 在线 ｜ 含中文
+  - HRT 药物价格对比 CSV 数据仓库，含「在线药商价格比对表.csv」「骗子药商肃反名单.csv」，面向跨性别用药人群。
+- [药娘的天空](https://github.com/trans-archive/transky) `github.com/trans-archive/transky` ｜ 在线 ｜ 含中文
+  - 《药娘的天空》全文章仓库（Markdown），195 stars，记录 2000 年代中国跨性别者的真实故事，即 transky.mtf.wiki 站点内容源。
+- [药娘的天空（原稿）](https://github.com/trans-archive/transky-raw) `github.com/trans-archive/transky-raw` ｜ 在线 ｜ 含中文
+  - 《药娘的天空》原始稿件仓库，13 stars，与整理版 transky 配套的历史原稿。
+- [成为女孩子的声音！伪声训练指南](https://github.com/trans-archive/jyosei-guide) `github.com/trans-archive/jyosei-guide` ｜ 在线 ｜ 含中文
+  - 《成为女孩子的声音！》伪声训练指南仓库（HTML），71 stars，结合插画、音频与基础训练手段的女性化嗓音训练教程。
+- [中国易性症多学科诊疗专家共识（2022）](https://github.com/trans-archive/chinese-expert-consensus-2022) `github.com/trans-archive/chinese-expert-consensus-2022` ｜ 在线 ｜ 含中文
+  - 《中国易性症多学科诊疗专家共识（2022）》全文仓库，13 stars，是国内跨性别医疗的重要中文权威文献。
+- [TransVoice-Wiki 中文本地化](https://github.com/trans-archive/TransVoice-Wiki) `github.com/trans-archive/TransVoice-Wiki` ｜ 在线 ｜ 含中文
+  - SumianVoice/TransVoice-Wiki 的中文本地化仓库（SCSS），6 stars，嗓音训练资源的中文译本。
+- [Trans-Parents 跨性别家长支持网站](https://github.com/trans-archive/trans-parents) `github.com/trans-archive/trans-parents` ｜ 在线
+  - 帮助家长理解跨性别孩子心理的网站（Astro），5 stars，英文站点。
+- [自制雌二醇凝胶教程（中文版）](https://github.com/trans-archive/estrogel-diy-guide-zh_CN) `github.com/trans-archive/estrogel-diy-guide-zh_CN` ｜ 在线 ｜ 含中文
+  - 自制雌二醇凝胶教程的中文仓库，收录配方、实测血药浓度数据与安全提示。
+- [跨性别数据档案](https://github.com/trans-archive/trans-data-archive) `github.com/trans-archive/trans-data-archive` ｜ 在线 ｜ 含中文
+  - 跨性别相关数据档案仓库，3 stars（project-polymorph/trans-data-archive 为本仓库 fork）。
+- [Transgender-lost-years 失去的少女时代](https://github.com/trans-archive/Transgender-lost-years) `github.com/trans-archive/Transgender-lost-years` ｜ 在线 ｜ 含中文
+  - 《我们失去的、从少女成长为女性的岁月》主题资料仓库，整理跨性别女性成长叙事。
+- [生如夏花知识库](https://github.com/viva-la-vita/wiki) `github.com/viva-la-vita/wiki` ｜ 在线 ｜ 含中文
+  - 生如夏花知识库（TypeScript），178 stars，面向中文跨性别群体（含 MTF）的大型知识库项目，另有主页与论坛仓库。
+- [生如夏花主页](https://github.com/viva-la-vita/viva-la-vita.github.io) `github.com/viva-la-vita/viva-la-vita.github.io` ｜ 在线 ｜ 含中文
+  - 生如夏花知识库主页源码（TypeScript），86 stars，中文站点。
+- [生如夏花论坛](https://github.com/viva-la-vita/bbs) `github.com/viva-la-vita/bbs` ｜ 在线 ｜ 含中文
+  - 生如夏花论坛（PHP），51 stars，中文跨性别社区论坛源码。
+- [MtF GAHT 指南（Shizu）](https://github.com/BBleae/hrt-book) `github.com/BBleae/hrt-book` ｜ 在线 ｜ 含中文
+  - Shizu 的跨性别女性 GAHT（性别肯定激素治疗）医学资料站（VuePress），109 stars，中/日双语，涵盖用药与海外药商索引。
+- [Transfeminine Science 简体中文译文仓库](https://github.com/tfsci-sc/articles) `github.com/tfsci-sc/articles` ｜ 在线 ｜ 含中文
+  - Transfeminine Science（女性倾向跨性别者科学）文章的简体中文译文仓库，26 stars，为中文 tfsci 站点的译文源。
+- [TransCircle 跨性别社区平台](https://github.com/TransCircle/TransCircle) `github.com/TransCircle/TransCircle` ｜ 在线 ｜ 含中文
+  - TransCircle 跨性别社区平台（TypeScript），40 stars，口号「我们的存在，就是对恶意最大的反抗」。
+- [femboy-skill 中文跨性别 Agent Skill](https://github.com/KurosawaGeeker/femboy-skill) `github.com/KurosawaGeeker/femboy-skill` ｜ 在线 ｜ 含中文
+  - 面向 MTF、crossdresser 与性别多元成年人的中文 Agent Skill（Python），108 stars，基于生如夏花知识库并内置医学安全护栏。
+- [Trans Helper Prism 跨性别 wiki 语义检索](https://github.com/daanser/Trans_Helper_Prism) `github.com/daanser/Trans_Helper_Prism` ｜ 在线 ｜ 含中文
+  - 把 MtF Wiki、FtM Wiki、RLE Wiki、Mio MtF Wiki 四部中文知识库聚合成一个搜索框的语义检索工具（向量检索+二次重排）。
+- [Trans-Prism 跨性别实用工具箱](https://github.com/Trans-Prism/Trans-Prism) `github.com/Trans-Prism/Trans-Prism` ｜ 在线 ｜ 含中文
+  - 专为跨性别群体打造的极简、安全、双擎驱动的实用工具箱 App（Dart），12 stars。
+- [HRT 药代动力学血药浓度监测 MCP 工具](https://github.com/lfcypo/hrt-pk-mcp) `github.com/lfcypo/hrt-pk-mcp` ｜ 在线 ｜ 含中文
+  - 激素替代治疗（HRT）药代动力学血药浓度监测 MCP 工具（Python），2 stars，可接入 AI Agent 辅助用药评估。
+- [MTF全书 iOS HRT 个人记录工具](https://github.com/AwantedRaccoon/mtfunmanual-app) `github.com/AwantedRaccoon/mtfunmanual-app` ｜ 在线 ｜ 含中文
+  - MTF全书非营利开源 iOS HRT 个人记录工具（Swift），1 star。
+- [HRT Recorder 跨性别激素曲线工具](https://github.com/NoMTF/HRT-Recorder) `github.com/NoMTF/HRT-Recorder` ｜ 在线 ｜ 含中文
+  - 偏向全功能的跨性别激素曲线及小工具集合（Kotlin），10 stars，可记录并可视化激素水平变化。
+- [HRT-Recorder 药代动力学组件](https://github.com/LaoZhong-Mihari/HRT-Recorder-PKcomponent-Test) `github.com/LaoZhong-Mihari/HRT-Recorder-PKcomponent-Test` ｜ 在线 ｜ 含中文
+  - HRT-Recorder 的雌二醇与睾酮药代动力学（PK）模型组件（Swift），34 stars。
+- [HRT-Monitor 性激素六项监测应用](https://github.com/KokoroLyase/HRT-Monitor) `github.com/KokoroLyase/HRT-Monitor` ｜ 在线 ｜ 含中文
+  - 本地优先的跨性别女性性激素六项监测应用（安卓 APP + 网页版 PWA），2 stars，在线版 hrt.isomeria.top。
+- [Estradiol-DIY 雌二醇自制资料](https://github.com/KristallWang/Estradiol-DIY) `github.com/KristallWang/Estradiol-DIY` ｜ 在线 ｜ 含中文
+  - 雌二醇自制相关资料整理仓库，141 stars，收录雌二醇凝胶/喷雾剂相关专利文献 PDF。
+- [DIY 雌二醇凝胶自制指南](https://github.com/Bluse-liu50/DIY-Estradiol-Gel-Guide) `github.com/Bluse-liu50/DIY-Estradiol-Gel-Guide` ｜ 在线 ｜ 含中文
+  - 雌二醇凝胶自制中文指南，76 stars，含配方比例与实测血药浓度数据（含安全警告）。
+- [跨性别图书馆 TransLibrary](https://github.com/yunwei37/TransLibrary) `github.com/yunwei37/TransLibrary` ｜ 在线 ｜ 含中文
+  - 致力于收集跨性别相关知识和文档的跨性别图书馆仓库，另有同名 fork（project-polymorph/TransLibrary）。
+- [天才翻车少女——MtF 竞赛生故事集](https://github.com/KristallWang/tiancaifancheshaonv) `github.com/KristallWang/tiancaifancheshaonv` ｜ 在线 ｜ 含中文
+  - 《天才翻车少女》企划仓库，101 stars，收集五大学科+CNAO 竞赛参赛 MtF 选手的真实故事。
+- [TSF 性转幻想与变身文学档案](https://github.com/cdtsf-library/cdts-fiction-archive) `github.com/cdtsf-library/cdts-fiction-archive` ｜ 在线 ｜ 含中文
+  - TSF（性转）幻想与变身文学档案仓库，151 stars，规模化的性转主题中文文学存档。
+- [跨性別檔案館（台湾）](https://github.com/Arienangel/trans-archive) `github.com/Arienangel/trans-archive` ｜ 在线 ｜ 含中文
+  - 台湾跨性别档案馆仓库（Markdown），繁体中文，整理台湾跨性别相关档案资料。
+- [Awesome Transgender 跨性别资源精选列表](https://github.com/cvyl/awesome-transgender) `github.com/cvyl/awesome-transgender` ｜ 在线
+  - Awesome 风格的跨性别资源精选列表，98 stars，分类收录网站、社区、嗓音训练、HRT 等资源链接。
+- [DIYHRT 资源自动存档](https://github.com/soapingtime/diyhrt) `github.com/soapingtime/diyhrt` ｜ 在线
+  - 自动存档 DIYHRT 资源的仓库（HTML），96 stars，保存 DIY HRT 资料的网页镜像。
+- [DIY HRT Directory 镜像](https://github.com/diyhrt2/diyhrt2.github.io) `github.com/diyhrt2/diyhrt2.github.io` ｜ 在线
+  - DIY HRT Directory 站点镜像仓库（HTML），7 stars，保存 DIY HRT 目录站点内容。
+- [Digital Transgender Archive 代码库](https://github.com/DigitalTransgenderArchive/dta) `github.com/DigitalTransgenderArchive/dta` ｜ 在线
+  - Digital Transgender Archive（数字跨性别档案）新版代码库（Ruby），5 stars。
+- [REFUGE Restrooms 安全卫生间地图](https://github.com/RefugeRestrooms/refugerestrooms) `github.com/RefugeRestrooms/refugerestrooms` ｜ 在线
+  - REFUGE restrooms：索引与地图化跨性别、间性人及性别非二元人群的安全卫生间位置（Ruby），969 stars。
+- [Trans Hotlines 跨性别求助热线列表](https://github.com/skurhse/trans-hotlines) `github.com/skurhse/trans-hotlines` ｜ 在线
+  - 跨性别人群求助热线资源列表（免费保密），34 stars，覆盖美国、加拿大等地区。
+- [estrannaise.js 雌二醇药代动力学模拟器](https://github.com/WHSAH/estrannaise.js) `github.com/WHSAH/estrannaise.js` ｜ 在线
+  - 雌二醇药代动力学在线模拟器（JavaScript），125 stars，可视化不同给药方案的血药浓度曲线。
+- [E2 Patch Simulator 雌二醇贴片模拟器](https://github.com/hypothete/e2-patch-simulator) `github.com/hypothete/e2-patch-simulator` ｜ 在线
+  - 0.1mg 雌二醇贴片血药浓度模拟器（TypeScript），8 stars。
+- [HormoneLevels HRT 激素水平工具](https://github.com/NAKlama/HormoneLevels) `github.com/NAKlama/HormoneLevels` ｜ 在线
+  - 计算并绘制跨性别 HRT 激素水平曲线的工具（Python），5 stars。
+- [hlcc 激素水平换算计算器](https://github.com/Jana-Marie/hlcc) `github.com/Jana-Marie/hlcc` ｜ 在线
+  - 激素水平单位换算计算器（Rust），14 stars。
+- [ha-estrannaise 雌二醇追踪（Home Assistant）](https://github.com/PersephoneKarnstein/ha-estrannaise) `github.com/PersephoneKarnstein/ha-estrannaise` ｜ 在线
+  - Home Assistant 上的雌二醇水平追踪与药代动力学建模组件（Python），6 stars。
+- [HRT.info 平台](https://github.com/Harmony-Within-Us/hrt.info) `github.com/Harmony-Within-Us/hrt.info` ｜ 在线
+  - HRT.info：提供激素替代治疗综合信息与资源的平台（TypeScript）。
+- [yuE2logger MtF HRT 追踪工具](https://github.com/yufun-meow/yuE2logger) `github.com/yufun-meow/yuE2logger` ｜ 在线
+  - 专用于追踪 MtF HRT（雌二醇水平）的工具（C++），4 stars。
+- [VocalTuner 跨性别嗓音训练工具](https://github.com/Kavex/VocalTuner) `github.com/Kavex/VocalTuner` ｜ 在线
+  - 测量音高与音色的跨性别嗓音训练工具（Python），2 stars。
+- [Trans Tone 跨性别女性嗓音训练 App](https://github.com/terraboops/transtone) `github.com/terraboops/transtone` ｜ 在线
+  - 面向跨性别女性的免费开源嗓音训练应用（Java），2 stars。
+- [Trans Voice Party 嗓音资源列表](https://github.com/j0lol/transvoice_party) `github.com/j0lol/transvoice_party` ｜ 在线
+  - 跨性别嗓音资源超级清单仓库，2 stars，聚合各类嗓音训练资源链接。
+- [L's Voice Feminization Guide](https://github.com/LuaCascade/voicefemguide) `github.com/LuaCascade/voicefemguide` ｜ 在线
+  - L 的女性化嗓音指南网站（HTML），1 star，源自 cutthroat 的嗓音教程。
+- [Trans-Voice-Notes 嗓音笔记](https://github.com/cutthroat78/Trans-Voice-Notes) `github.com/cutthroat78/Trans-Voice-Notes` ｜ 在线
+  - 面向 MTF/transfeminine 的嗓音训练笔记（Markdown），1 star。
+- [Transgender Resource Library 资源库](https://github.com/Transgender-Resource-Wiki/Transgender-Resource-Wiki.github.io) `github.com/Transgender-Resource-Wiki/Transgender-Resource-Wiki.github.io` ｜ 在线
+  - Transgender Resource Library：跨性别资源与信息集合站点（MDX）。
+- [中国大陆互联网跨性别社群概览](https://github.com/ZnVtbw/trans-overview-cn) `github.com/ZnVtbw/trans-overview-cn` ｜ 在线
+  - 中国大陆互联网跨性别社群概览文档（TeX），梳理境内跨性别网络社群生态。
+- [TransTalk 中国跨性别议题英文站](https://github.com/dongguacute/TransTalk) `github.com/dongguacute/TransTalk` ｜ 在线
+  - 以英文讨论中国跨性别议题的网站（TypeScript）。
+
+## 法律权益（41）
+
+- [美国公民自由联盟](https://www.aclu.org/) `aclu.org` ｜ 在线
+  - 美国公民自由联盟(ACLU)官网设有跨性别权利专题，捍卫跨性别者的宪法与民权，反对限制性立法并提供“了解你的权利”科普，将其置于更广泛的公民自由与反歧视框架下倡导。
+- [GOV.UK — 申请性别承认证书（GRC）官方指南](https://www.gov.uk/apply-gender-recognition-certificate) `gov.uk` ｜ 在线
+  - 英国政府官方页面，分步说明性别承认证书的申请条件、所需材料、费用与流程，是理解「法律性别变更」制度设计的权威样板。
+- [HRC — Human Rights Campaign 跨性别资源页](https://www.hrc.org/resources/transgender) `hrc.org` ｜ 在线
+  - 美国最大 LGBTQ+ 倡导组织的跨性别资源入口，聚合跨性别人权议题、立法与政策追踪，适合跟踪美国反跨立法动向。
+- [Lambda Legal — LGBTQ+ 法律援助组织](https://www.lambdalegal.org/) `lambdalegal.org` ｜ 在线
+  - 美国历史最久的 LGBTQ+ 与 HIV 群体法律援助组织，跨性别与非二元权利是其核心领域之一，含诉讼个案、政策倡导与「了解你的权利」资源。
+- [NCLR — 国家 LGBTQ 权利中心](https://www.nclrights.org/) `nclrights.org` ｜ 在线
+  - 国家 LGBTQ 权利中心（NCLR）是美国老牌 LGBTQ 法律倡导组织，工作领域覆盖跨性别青年、医疗权益、反歧视立法、法律援助与诉讼，并就跨性别医疗、兵役禁令等议题在国会与法院发声。
+- [台湾伴侣权益推动联盟（伴盟）](https://tapcpr.org/) `tapcpr.org` ｜ 在线 ｜ 含中文
+  - 推动婚姻平权与跨性别人权的台湾倡议组织，设有免费法律咨询、跨性别问代誌线上问答与「陪伴跨出去」服务，并主导废除强制手术换证的连署行动。
+- [TGEU 欧洲中亚跨性别组织](https://tgeu.org/) `tgeu.org` ｜ 在线
+  - TGEU是覆盖欧洲与中亚50+国家、200+成员组织的跨性别权益网络，发布跨性别权利指数与地图、反暴力监测，以及《人权与性别认同最佳实践目录》等研究报告，推动自决与去病理化。
+- [Advocates for Trans Equality](https://transequality.org/) `transequality.org` ｜ 在线
+  - 由NCTE与TLDEF合并成立的美国跨性别权益组织Advocates for Trans Equality，追踪并诉讼对抗反跨行政令，提供法律生存指南、医保倡导与国会游说，致力于在政策与法律上推动跨性别者平等。
+- [Transgender Law Center — 跨性别法律中心](https://transgenderlawcenter.org/) `transgenderlawcenter.org` ｜ 在线
+  - 美国规模最大的跨性别法律组织，覆盖诉讼、政策倡导、法律帮助与社区安全项目，并发布「跨性别议程」等政策文件。
+- [Trans Murder Monitoring](https://transrespect.org/) `transrespect.org` ｜ 在线
+  - TGEU旗下的跨性别谋杀监测(Trans Murder Monitoring)研究项目，自2009年起系统收集分析全球跨性别与性别多元者被杀害的数据，每年在纪念日更新，用于问责与纪念最边缘的社群成员。
+- [日惹原则](https://yogyakartaprinciples.org/) `yogyakartaprinciples.org` ｜ 在线
+  - 关于性取向、性别认同、表达与性征(SOGIESC)的国际人权原则文件，含2006年《日惹原则》与2017年YP+10补充，确立各国须遵守的约束性人权标准与111项国家义务。
+- [跨性别在线·护身符（证件修改手册）](https://docs.transonline.org.cn/hushenfu/) `transonline.org.cn` ｜ 待复核 ｜ 含中文
+  - 中国大陆跨性别在线组织，提供《跨性别证件修改手册》与护身符法律自护指南（当前网络不可达）
+- [Transgender Equality Hong Kong 香港跨性別平權協會](http://www.tehk.org.hk/) `tehk.org.hk` ｜ 在线 ｜ 含中文
+  - 香港跨性别平权组织，提供性别承认、法律权利与跨性别 101 繁中指南
+- [香港平等機會委員會](https://www.eoc.org.hk/) `eoc.org.hk` ｜ 在线 ｜ 含中文
+  - 香港法定反歧视机构，发布跨性别就业与《性别歧视条例》指引、投诉渠道，中英双语
+- [臺北市性別平等辦公室 LGBT 專區](https://lgbt.gov.taipei/) `lgbt.gov.taipei` ｜ 在线 ｜ 含中文
+  - 台北市政府性别平等办公室 LGBT 专区，提供跨性别权益、性别变更行政程序等官方信息
+- [台灣人權公約施行監督聯盟 TWGRA](https://twgra.org/) `twgra.org` ｜ 在线 ｜ 含中文
+  - 台湾人权公约监督联盟，推动性别变更法制化，发布跨性别法律政策研究案与修法倡议
+- [PlainLaw 白话法律·性别自决专题](https://plainlaw.me/posts/gender-self-determination) `plainlaw.me` ｜ 在线 ｜ 含中文
+  - 台湾法律科普媒体，用白话解析性别自决、证件变更等跨性别法律议题
+- [联合国人权高专办 OHCHR（中文）](https://www.ohchr.org/zh/sexual-orientation-and-gender-identity) `ohchr.org` ｜ 在线 ｜ 含中文
+  - 联合国人权高专办中文频道，发布跨性别人群权利、法律承认与反歧视国际标准
+- [联合国自由与平等运动 UNFE（中文）](https://www.unfe.org/zh/) `unfe.org` ｜ 在线 ｜ 含中文
+  - 联合国 LGBTIQ+ 反歧视运动中文站，提供跨性别权利事实清单、法律挑战与行动资源
+- [国际特赦组织（简体中文）](https://www.amnesty.org/zh-hans/) `amnesty.org` ｜ 在线 ｜ 含中文
+  - 国际特赦组织中文站，发布跨性别者人权、法律承认与歧视问题中文报告
+- [汉盛法评丨跨性别者身份证信息变更问题研究](https://www.hanshenglaw.cn/CN/08/9ba076897d485d14.aspx) `hanshenglaw.cn` ｜ 在线 ｜ 含中文
+  - 上海汉盛律所专题文章，分析中国大陆跨性别者身份证信息变更的法律依据与实践路径
+- [KiraEqual 跨性别研究·报告与故事](https://kiramyao.com/) `kiramyao.com` ｜ 在线 ｜ 含中文
+  - 中国跨性别独立研究与公益项目，发布生存现状调研报告（含法律政策面向）与经历文集
+- [正荣公益基金会·喜公益｜模拟法庭-中国首个跨性别平等就业权案](https://zhenrogy.org/project_view.asp?aid=2884) `zhenrogy.org` ｜ 在线 ｜ 含中文
+  - 正荣公益基金会喜公益项目页，以模拟法庭形式普法中国首个跨性别平等就业权案
+- [臺北市跨性別資訊網](https://transgender.taipei/) `transgender.taipei` ｜ 待复核 ｜ 含中文
+  - 台北市跨性别专题信息网，含认识跨性别与权益资源（当前网络不可达，待复核）
+- [GLAD 法律倡导与辩护](https://www.glad.org/) `glad.org` ｜ 待复核
+  - 美国 GLBTQ 法律倡导与辩护组织，跨性别证件更新法律指引与诉讼先导（Cloudflare 拦截待复核）
+- [Movement Advancement Project（MAP）](https://www.lgbtmap.org/) `lgbtmap.org` ｜ 在线
+  - 美国 LGBT 政策智库，证件修改法律地图、反歧视政策数据库与报告（英文）
+- [ILGA World](https://ilga.org/) `ilga.org` ｜ 在线
+  - 全球 LGBTI 联合会，发布各国法律承认、跨性别权利地图与法律研究报告（英文）
+- [ILGA Asia](https://ilgaasia.org/) `ilgaasia.org` ｜ 在线
+  - ILGA 亚洲分部，覆盖亚洲各国（含中港台日）跨性别法律承认动态与倡导（英文）
+- [Equaldex 各国 LGBT 权利数据库](https://www.equaldex.com/) `equaldex.com` ｜ 在线
+  - 众包式各国 LGBT 法律权利数据库，可按地区查跨性别改名、改性别标记与歧视法律（英文）
+- [OutRight International](https://outrightinternational.org/) `outrightinternational.org` ｜ 在线
+  - 国际 LGBTIQ 人权组织，发布跨性别者人权与法律倡导报告（英文）
+- [Trans Youth Equality Foundation](https://transyouthequality.org/) `transyouthequality.org` ｜ 在线
+  - 美国跨性别青年基金会，提供出柜指南、家庭沟通与权益教育（英文）
+- [TGGuide 跨性别指南](https://tgguide.com/) `tgguide.com` ｜ 在线
+  - 老牌跨性别社区指南站，含出柜指南与社区资源（英文）
+- [Bet Tzedek·跨性别者正义法律服务](https://bettzedek.org/our-services/justice-for-transgender-individuals/) `bettzedek.org` ｜ 待复核
+  - 美国法律援助机构，设跨性别者正义项目提供改名、改证件免费法律服务（英文，反爬待复核）
+- [Trans Legal Aid Clinic Texas](https://translegalaidtx.com/) `translegalaidtx.com` ｜ 在线
+  - 德州跨性别法律援助诊所，提供改名、性别标记变更法律援助（英文）
+- [Equality Ohio 法律诊所](https://equalityohio.org/legal-clinic/) `equalityohio.org` ｜ 在线
+  - 俄亥俄州 LGBT 权益组织法律诊所，提供跨性别改名与证件法律援助（英文）
+- [洛杉矶 LGBT 中心（法律服务）](https://lalgbtcenter.org/) `lalgbtcenter.org` ｜ 待复核
+  - 洛杉矶 LGBT 中心提供跨性别法律诊所、改名协助与律师转介（英文，Cloudflare 待复核）
+- [TexasLawHelp LGBTQIA+ 法律资源](https://texaslawhelp.org/article/resources-for-lgbtqia-communities) `texaslawhelp.org` ｜ 在线
+  - 德州官方法律援助网站，汇总跨性别等性少数群体改名、证件与反歧视法律资源（英文）
+- [加州法院自助·性别承认指南](https://selfhelp.courts.ca.gov/gender-recognition) `selfhelp.courts.ca.gov` ｜ 在线
+  - 加州法院官方自助指南，详解更改性别标记与姓名的司法程序（英文）
+- [加州民权部](https://calcivilrights.ca.gov/) `calcivilrights.ca.gov` ｜ 在线
+  - 加州政府民权执法机构，提供跨性别员工反歧视权利官方指引与投诉渠道（英文）
+- [纽约州检察长·LGBTQIA+ 权利资源](https://ag.ny.gov/resources/individuals/civil-rights/lgbtqia-rights) `ag.ny.gov` ｜ 在线
+  - 纽约州总检察长办公室 LGBTQIA+ 权利专页，跨性别反歧视法律资源（英文）
+- [港大人权中心 Human Rights Hub](https://hrhub.law.hku.hk/) `hrhub.law.hku.hk` ｜ 在线
+  - 香港大学法学院人权中心，追踪香港性别承认法案与跨性别判例研究（英文）
+
+## 知识站点（26）
+
+- [爱白网 — 中文性少数科普与问答资料库](https://www.aibai.com/) `aibai.com` ｜ 在线 ｜ 含中文
+  - 1999 年起运营的中文性少数资料站，按科普、健康、心理等主题聚合文章与数据，含同志问答专栏，可作为中文语料补充。
+- [Gender Analysis — 跨性别科学深度网志](https://genderanalysis.net/) `genderanalysis.net` ｜ 在线
+  - Zinnia Jones 主理的深度网志，从社会学、公共卫生、精神病学与认知科学角度讨论跨性别议题，并有大量关于 SEGM、Genspect 等反跨组织渗透立法的调查报道。
+- [Gender Dysphoria Fyi](https://genderdysphoria.fyi/en/) `genderdysphoria.fyi` ｜ 在线 ｜ 含中文
+  - 面向跨性别者与盟友的科普指南站点，系统讲解性别不安的多种表现(身体、社会、性向等)、社会与医疗过渡(含激素第二青春期)以及自我认知，内容详实、去病理化，并附常见误区澄清。
+- [GenderKit — 英国跨性别资源工具包](https://genderkit.org.uk/) `genderkit.org.uk` ｜ 在线
+  - 英国志愿者项目，按改名、代称、证件、可见度、衣着、声音、月经、体毛、肌肉、上身与下身等主题聚合操作指引与外部医疗/法务链接，另含权利与医疗指南入口。
+- [Guttmacher Institute — 性与生殖健康政策研究机构](https://www.guttmacher.org/) `guttmacher.org` ｜ 在线
+  - Guttmacher Institute 是面向性与生殖健康政策的独立研究机构，跟踪包括性别肯定照护（gender-affirming care）在内的政策攻防、堕胎与避孕可及性，并产出州法与政策数据，是理解跨性别者性与生殖健康政策环境的数据源之一。
+- [Julia Serano — 跨性别女性主义写作者主页](https://juliaserano.com/) `juliaserano.com` ｜ 在线
+  - 《Whipping Girl》作者、生物学家与跨性别活动家的个人站，索引其书籍、论文、演讲与 200 余条跨性别/性别术语表，并单列跨性别心理学与医疗相关写作。
+- [MtF.Party 中文过渡指南](https://mtf.party/) `mtf.party` ｜ 在线 ｜ 含中文
+  - 中文跨性别女性过渡经验社区MtF.Party，按觉醒、精神科确认、生活出柜、HRT/FFS/SRS医疗与身份变更等阶段详述过渡过程，并分享北医六院挂号、可报销费用的大学等实用本地资源。
+- [MtF.wiki — 中文跨性别女性知识整合站](https://mtf.wiki/zh-cn/) `mtf.wiki` ｜ 在线 ｜ 含中文
+  - 中文世界最系统的跨性别女性知识站点入口，汇总女性倾向跨性别人士的激素、手术、证件、心理等资料，由 Project Trans 团队维护并持续更新。
+- [Pronouns.org — 人称代词使用指南](https://www.mypronouns.org/) `mypronouns.org` ｜ 在线
+  - 围绕个人代词与多元性别肯定用语的操作指南，涵盖为什么重要、如何正确使用、常见错误与如何询问，适合日常与职场场景。
+- [斯坦福哲学百科 — 女性主义视角下的跨性别议题](https://plato.stanford.edu/entries/feminism-trans/) `plato.stanford.edu` ｜ 在线
+  - SEP 学术条目（2025 年实质修订），系统梳理女性主义与跨性别理论的关系、TERF 论争与跨性别女性在女性主义中的位置，引用密集，适合作为理论溯源。
+- [RLE.wiki — 跨性别者真实生活经验指北](https://rle.wiki/) `rle.wiki` ｜ 在线 ｜ 含中文
+  - Project Trans 发起的 RLE（真实生活体验）指南，面向跨性别与性别多元群体，按大学指南、时尚护理、志愿填报、安全防护、海外生活等模块组织，内容涵盖 MtF 与 FtM；属实用过渡指引类。
+- [Transgender Map](https://transgendermap.com/) `transgendermap.com` ｜ 在线
+  - 始于1996年的免费跨性别过渡指南站Transgender Map，含2600+页面，按社会、法律、医疗、财务、资源等板块系统介绍如何完成性别过渡，并专设青少年与家人支持内容。
+- [TransHub — ACON 的跨性别数字资源平台](https://www.transhub.org.au/) `transhub.org.au` ｜ 在线
+  - 由澳洲 LGBTQ 健康组织 ACON 运营的 TransHub 是大型跨性别数字资源平台，系统覆盖过渡、医疗、法律、社交与生活各维度，提供面向跨性别者、家人、医疗者与雇主的循证指南与工具，内容详尽。
+- [Williams Institute — UCLA 法学院性取向与性别认同政策智库](https://williamsinstitute.law.ucla.edu/) `williamsinstitute.law.ucla.edu` ｜ 在线
+  - 隶属于 UCLA 法学院的 Williams Institute 是性取向与性别认同法律公共政策的权威智库，发布跨性别人口规模、歧视与暴力、刑事司法、投票权等循证研究报告，为政策与诉讼提供数据支撑。
+- [中文 MTF 社群导航与跨性别新手资源汇总 (2026最新版)](https://transles.top/) `transles.top` ｜ 在线 ｜ 含中文
+  - 中文 MTF 社群导航站，汇总活跃 Discord/Telegram 社群、跨性别新手资源与资讯（2026 年更新）。
+- [关于跨性别的一切（mtf.name）](https://mtf.name/) `mtf.name` ｜ 在线 ｜ 含中文
+  - 中文跨性别信息站「关于跨性别的一切」，汇总 MTF 相关知识、信息来源与社区资源链接。
+- [成为女孩子的声音！系列图书](https://vocal.mtf.wiki/) `vocal.mtf.wiki` ｜ 在线 ｜ 含中文
+  - MtF.wiki 附属中文语音训练图书站，提供跨性别女性声音训练系列指南（《成为女孩子的声音！》）。
+- [Trans Wiki: 148+ Scientific Articles](https://www.transwiki.co/) `transwiki.co` ｜ 在线
+  - 通用跨性别 Wiki（同时覆盖 FtM/MtF），收录 148+ 篇性别认同、科学、过渡路径与跨性别文化科普文章（英文）。
+- [LGBTQIA+ Wiki](https://lgbtqia.wiki/) `lgbtqia.wiki` ｜ 在线
+  - Miraheze 上的通用 LGBTQIA+ Wiki（同时覆盖 FtM/MtF），含跨性别（Transgender）等系统性百科词条（英文）。
+- [跨性别女性 - 百度百科](https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7/16697826) `baike.baidu.com` ｜ 在线 ｜ 含中文
+  - 百度百科「跨性别女性」词条，中文百科对 MtF 定义、成因与社会背景的系统介绍。
+- [跨性別女性 - 维基百科](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7) `zh.wikipedia.org` ｜ 在线 ｜ 含中文
+  - 维基百科「跨性別女性」条目，中文百科对跨性别女性的系统介绍（术语、权益、医疗与历史背景）。
+- [Transsexuality — TS 资源站](https://transsexual.org/) `transsexual.org` ｜ 在线
+  - 老牌 TS（transsexual）资源站（英文），收录跨性别者过渡经历与相关资源，内容偏早期视角。
+- [终极 Tucking 教学：图解 3 大方法步骤与安全风险全攻略 — Goji Studios](https://gojistudios.com.hk/7561/) `gojistudios.com.hk` ｜ 在线 ｜ 含中文
+  - 香港美容机构博客发布的繁体中文 Tucking 图解教学，涵盖 3 大方法步骤与安全风险（站本身为美容机构，生活实用类文章）。
+- [Unclockable — How To Tuck Guide（trans femmes 专用）](https://unclockable.com/pages/how-to-tuck-guide-for-trans-women) `unclockable.com` ｜ 在线
+  - 面向 transfem 的 tucking 图文视频分步指南与 Tuck Kit 产品站（生活实用类用品，注明）。
+- [En Femme — 跨性别女性时尚品牌与风格指南](https://enfemmestyle.com/) `enfemmestyle.com` ｜ 在线
+  - 面向跨性别女性的时尚品牌，提供女装、内衣与穿搭风格指南博客。
+- [Robyn Withawhy — No-Nonsense Tucking 指南](https://www.robynwithawhy.com/index.php/2021/03/04/how-to-tuck-a-no-nonsense-guide-from-a-drag-queen/) `robynwithawhy.com` ｜ 在线
+  - 变装表演者撰写的 tucking 实操指南，被跨性别女性广泛引用（作者为 drag queen，注明）。
+
+## 社区与组织（43）
+
+- [出色伙伴（原同性恋亲友会）](https://www.chuse8.com/) `chuse8.com` ｜ 在线 ｜ 含中文
+  - 中国本土性少数亲友支持机构，设有自我认同、家长故事、出柜故事等资源中心与亲友项目，对家庭沟通场景有中文实务经验。
+- [Family Equality — 服务 LGBTQ+ 家庭的非营利组织](https://www.familyequality.org/) `familyequality.org` ｜ 在线
+  - Family Equality 是美国服务 LGBTQ+ 家庭的国家级非营利组织，提供家庭保护、育儿资源与指南、包容校园、LGBTQ+ 医疗服务提供者数据库，并推动家庭法律与政策（收养、育儿、福利）的平等。
+- [The Gender Centre — 澳大利亚跨性别与性别多元服务中心](https://www.gendercentre.org.au/) `gendercentre.org.au` ｜ 在线
+  - 位于悉尼的 The Gender Centre 是澳洲 statewide 跨性别与性别多元（trans and gender diverse）综合服务中心，提供探索性别认同、缓解性别不安的专业支持、团体与资源目录，并专设跨性别无家者可住 refuge 服务。
+- [Gendered Intelligence — 英国跨性别教育机构](https://genderedintelligence.co.uk/) `genderedintelligence.co.uk` ｜ 在线
+  - 以「拓展对性别的理解、改善跨性别者生活」为目标的英国机构，为跨性别青少年与成人提供支持服务，并为学校、企业与公共机构提供培训。
+- [Gender Spectrum](https://genderspectrum.org/) `genderspectrum.org` ｜ 在线
+  - 致力于为儿童与青少年创造性别包容世界的组织Gender Spectrum，提供面向家庭、学校与机构的资源、线上互助小组与月度聚会，帮助成年人理解并支持性别多样化孩子，并应对政策环境挑战。
+- [gid.jp — 日本性同一性障害・性别违和者之会](https://gid.jp/) `gid.jp` ｜ 在线
+  - 日本跨性别者自助组织官网，长期推动激素疗法与性别适合手术纳入医保、与厚生劳动省交涉，并发布调查资料与法律意见书，是了解日本跨性别医疗制度的入口。
+- [GLAAD — 跨性别媒体倡导页面](https://www.glaad.org/transgender) `glaad.org` ｜ 在线
+  - GLAAD 是专注媒体表征的 LGBTQ 倡导组织，其跨性别频道跟踪主流媒体中的跨性别报道、回应针对跨性别群体的攻击事件，并推动影视与新闻中更公允、肯定的跨性别形象呈现。
+- [GLSEN — K-12 校园 LGBTQ 教育倡导组织](https://www.glsen.org/) `glsen.org` ｜ 在线
+  - GLSEN（原 Gay, Lesbian & Straight Education Network）致力于推动 K-12 校园成为安全、肯定的环境，发布全国校园气候调查、学生与教育者资源、政策行动中心，关注包括跨性别学生在内的青少年校园包容。
+- [台湾同志咨询热线](https://hotline.org.tw/) `hotline.org.tw` ｜ 在线 ｜ 含中文
+  - 台湾老牌同志与跨性别支持组织，提供咨询专线与父母咨询、跨性别讲座（如跨男亲子对谈）、多元性别教育及社群活动，是华语圈少见的长期陪伴型资源。
+- [Mermaids — 英国跨性别青少年支持慈善机构](https://www.mermaidsuk.org.uk/) `mermaidsuk.org.uk` ｜ 在线
+  - 1995 年起支持跨性别、非二元与性别多元儿童青少年及其家庭的英国慈善机构，提供支持热线、家长资源、学校与机构培训，并涉及危机干预转介。
+- [MtF.Report 中国跨性别女性援助](https://mtf.report/zh-cn) `mtf.report` ｜ 在线 ｜ 含中文
+  - 中国青少年跨性别女性(MtF)公益调研平台，通过口头访谈与文献系统整理并发布报告，揭示家庭暴力、医疗歧视与社会排斥等深层问题，同时搭建透明安全的捐助通道支援受困者。
+- [PFLAG — 跨性别成人阅读书单（Transgender Reading List for Adults）](https://pflag.org/resource/transgender/) `pflag.org` ｜ 在线
+  - 美国全国性 LGBTQ+ 亲友支持组织 PFLAG 的跨性别资源页，面向成人提供跨性别书单，涵盖如何支持质疑性别的孩子、陪伴过渡中的亲友、做盟友，以及跨性别相关复杂法律议题的入门指引。
+- [Stonewall — 英国 LGBTQ+ 权益组织](https://www.stonewall.org.uk/) `stonewall.org.uk` ｜ 在线
+  - 英国最具影响力的 LGBTQ+ 倡导组织，站点含跨性别相关政策立场、职场包容项目与立法追踪（如威尔士性别服务暂停手术转介的回应）。
+- [台湾性别平等教育协会（性平协）](https://tgeea.org.tw/) `tgeea.org.tw` ｜ 在线 ｜ 含中文
+  - 2002 年成立的性平教育团体，开发性别平等教材、培训种子讲师并推动立法监督，对校园多元性别友善环境的实务资料较丰富。
+- [The Trevor Project — LGBTQ+ 青少年危机干预](https://www.thetrevorproject.org/) `thetrevorproject.org` ｜ 在线
+  - 美国领先的 LGBTQ+ 青少年自杀预防与危机干预非营利组织，提供 24/7 电话/短信/在线咨询与结构化资源中心（自杀议题、心理健康、社群支持）。
+- [TransActual (英国)](https://transactual.org.uk/) `transactual.org.uk` ｜ 在线
+  - 英国跨性别者主导的权益组织TransActual，发布《Trans Lives Report 2025》揭示医疗与平等障碍，跟进NHS成人性别服务Levy报告，并提供GP拒开HRT时的应对与法律权利指南。
+- [Transanta — 跨性别青少年礼物资助](https://transanta.org/) `transanta.org` ｜ 在线
+  - 为跨性别青少年募集节日礼物的公益项目，站点含申请/捐赠通道与资源指南，反映社群互助型支持模式。
+- [TransGender Pulse — 跨性别支持社区](https://www.transgenderpulse.com/) `transgenderpulse.com` ｜ 在线
+  - 原 Laura's Playground，定位为支持而非交友站点：论坛+接受防自杀培训的志愿者在线聊天，并提供面向跨性别人群的医生、治疗师与商家全球名录。
+- [Trans Student Educational Resources](https://www.transstudent.org/) `transstudent.org` ｜ 在线
+  - 由年轻人运营的跨性别学生教育资源组织，提供术语与定义、政策模板、信息图、工作坊与奖学金信息，适合校园倡导场景直接取用。
+- [TGR 香港跨性别资源中心](https://tgr.org.hk/) `tgr.org.hk` ｜ 在线 ｜ 含中文
+  - 香港跨性别资源中心，提供跨性别辅导、性别重置医疗资讯、法律支援与'跨乐园'交友平台
+- [Crossdreamers](https://www.crossdreamers.com/) `crossdreamers.com` ｜ 在线
+  - Jack Molay 关于跨性别与跨性别幻想（crossdreaming）的英文博客
+- [Limelight 论坛（limonnur 的废墟）](https://limelight.moe/) `limelight.moe` ｜ 在线 ｜ 含中文
+  - 中国大陆跨性别群体主要中文论坛（Discourse），前身为 limelight.moe，现址 forum.limonnur.party
+- [MtFBBS](https://www.mtfbbs.top/) `mtfbbs.top` ｜ 在线 ｜ 含中文
+  - 面向跨性别女性及非常规性别者的中文论坛（XenForo），含实用内容及故事分区
+- [TransNav 蓝粉白地图——跨性别导航站](https://www.transnav.org/) `transnav.org` ｜ 在线 ｜ 含中文
+  - 中文跨性别导航站，分类收录百科、HRT、论坛社区、微信公众号等跨性别资源
+- [多元性别中文数字图书馆](https://transchinese.org/) `transchinese.org` ｜ 在线 ｜ 含中文
+  - 致力于传承传播跨性别与多元性别知识与故事的中文数字图书馆（1.3 万+资料，欢迎社区提交）
+- [跨与多元性别档案](https://digital.transchinese.org/) `digital.transchinese.org` ｜ 在线 ｜ 含中文
+  - 跨性别与多元性别中文档案馆，收录学术文献、政府文件、NGO 文件与社群资料
+- [批踢踢實業坊 transgender 看板](https://www.ptt.cc/bbs/transgender/) `ptt.cc` ｜ 在线 ｜ 含中文
+  - 台湾 PTT BBS 跨性别看板，繁体中文跨性别交流社区
+- [喵（Ayaka Neko 个人博客）](https://neko.ayaka.moe/) `neko.ayaka.moe` ｜ 在线 ｜ 含中文
+  - 跨性别女性 Ayaka Neko 的个人博客（技术/生活记录），收录于中文跨性别来源汇总
+- [御坂网络司令塔](https://blog.misaka4e21.science/) `blog.misaka4e21.science` ｜ 在线 ｜ 含中文
+  - 跨性别者个人博客（技术向），收录于中文跨性别来源汇总
+- [零卡路里饮料店（Lhc_fl 个人博客）](https://lhcfl.github.io/) `lhcfl.github.io` ｜ 在线 ｜ 含中文
+  - 跨性别女性 Lhc_fl 的个人博客（技术/生活向），收录于中文跨性别来源汇总
+- [百度贴吧·跨性别吧](https://tieba.baidu.com/f?kw=%E8%B7%A8%E6%80%A7%E5%88%AB) `tieba.baidu.com` ｜ 待复核 ｜ 含中文
+  - 百度贴吧跨性别话题主吧，中文跨性别群体（含大量 MtF）讨论社区
+- [Transgender Zone](https://www.transgenderzone.com/) `transgenderzone.com` ｜ 在线
+  - 跨性别者专属英文论坛社区（trans-owned, trans-only），含 HRT 学习资源
+- [Hannah McKnight](https://hannahmcknight.org/) `hannahmcknight.org` ｜ 在线
+  - 跨性别女性 Hannah McKnight 的英文博客（T-Girl 时尚/生活/行动倡导）
+- [Trans Lifeline](https://translifeline.org/) `translifeline.org` ｜ 在线
+  - 美国跨性别危机热线与互助支持组织（由跨性别者运营）
+- [Point of Pride](https://pointofpride.org/) `pointofpride.org` ｜ 在线
+  - 为跨性别者提供医疗资助（手术基金/束胸捐赠等）与支持服务的公益组织
+- [TransFamily Support Services](https://transfamilysos.org/) `transfamilysos.org` ｜ 在线
+  - 跨性别者及其家庭的支持服务组织（美国，含保险维权与心理支持）
+- [Trans Unite](https://transunite.co.uk/) `transunite.co.uk` ｜ 在线
+  - 英国跨性别支持小组检索目录，可按地区查找线下支持团体
+- [TransCentralPA](https://www.transcentralpa.org/) `transcentralpa.org` ｜ 在线
+  - 美国宾夕法尼亚州中部跨性别社群支持组织（月度聚会与资源）
+- [DISBOARD 跨性别 Discord 服务器目录](https://disboard.org/servers/tag/transgender) `disboard.org` ｜ 在线
+  - Discord 跨性别服务器目录（聚合入口，非 MTF 专属），可检索跨性别 Discord 社群
+- [Reddit r/MtF 社区](https://www.reddit.com/r/MtF/) `reddit.com` ｜ 待复核
+  - Reddit 上规模最大的跨性别女性社区（数十万成员，英文为主）
+- [Transgender Heaven](https://transgenderheaven.com/) `transgenderheaven.com` ｜ 待复核
+  - 面向跨性别女性的英文交流社区论坛
+- [TransLives 跨性别人生](https://www.translives.net/) `translives.net` ｜ 失效 ｜ 含中文
+  - 曾为中国大陆跨性别社区站点，现无法访问
+- [木桶饭](https://mtf.moe/) `mtf.moe` ｜ 失效 ｜ 含中文
+  - 曾为中国大陆 MTF 社区'木桶饭'，现无法访问
